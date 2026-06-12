@@ -1,0 +1,2001 @@
+portfolio_id,stock_symbol,stock_name,quantity,stock_sector,purchase_price
+PF-REA-0001,DLR,Digital Realty Trust,58,Real Estate,47.27
+PF-ENE-0001,XOM,Exxon Mobil Corporation,126,Energy,342.58
+PF-MAT-0001,IP,International Paper Co.,53,Materials,1018.28
+PF-UTI-0001,AEP,American Electric Power,45,Utilities,889.83
+PF-TEC-0001,NVDA,NVIDIA Corporation,16,Technology,149.61
+PF-FIN-0001,MS,Morgan Stanley,259,Finance,907.01
+PF-UTI-0002,SRE,Sempra Energy,102,Utilities,1076.87
+PF-MAT-0002,NEM,Newmont Corporation,280,Materials,635.08
+PF-IND-0001,HON,Honeywell International,302,Industrials,424.5
+PF-TEC-0002,AAPL,Apple Inc.,389,Technology,1210.67
+PF-MAT-0003,NEM,Newmont Corporation,217,Materials,516.97
+PF-HEA-0001,MRK,Merck & Co. Inc.,111,Healthcare,1436.25
+PF-ENE-0002,OXY,Occidental Petroleum,53,Energy,148.19
+PF-TEC-0003,CSCO,Cisco Systems Inc.,184,Technology,1272.77
+PF-REA-0002,CCI,Crown Castle Inc.,136,Real Estate,1212.62
+PF-MAT-0004,MLM,Martin Marietta Materials,236,Materials,808.98
+PF-CON-0001,WMT,Walmart Inc.,41,Consumer Goods,832.54
+PF-REA-0003,O,Realty Income Corporation,317,Real Estate,1329.32
+PF-CON-0002,KO,The Coca-Cola Company,296,Consumer Goods,296.51
+PF-TEC-0004,CRM,Salesforce Inc.,24,Technology,995.28
+PF-COM-0001,NFLX,Netflix Inc.,149,Communication,1477.98
+PF-FIN-0002,MS,Morgan Stanley,444,Finance,160.49
+PF-ENE-0003,XOM,Exxon Mobil Corporation,233,Energy,957.17
+PF-CON-0003,KO,The Coca-Cola Company,84,Consumer Goods,561.57
+PF-FIN-0003,BAC,Bank of America Corp.,344,Finance,407.8
+PF-MAT-0005,SHW,Sherwin-Williams Company,332,Materials,116.39
+PF-REA-0004,DLR,Digital Realty Trust,88,Real Estate,805.87
+PF-FIN-0004,AXP,American Express Company,84,Finance,698.77
+PF-FIN-0005,CB,Chubb Limited,474,Finance,963.6
+PF-UTI-0003,SRE,Sempra Energy,113,Utilities,1030.08
+PF-COM-0002,NFLX,Netflix Inc.,398,Communication,93.35
+PF-TEC-0005,NVDA,NVIDIA Corporation,413,Technology,480.03
+PF-FIN-0006,CB,Chubb Limited,34,Finance,324.36
+PF-UTI-0004,PCG,PG&E Corporation,449,Utilities,1079.69
+PF-FIN-0007,WFC,Wells Fargo & Company,336,Finance,753.85
+PF-REA-0005,WELL,Welltower Inc.,235,Real Estate,222.88
+PF-HEA-0002,UNH,UnitedHealth Group,127,Healthcare,1120.03
+PF-UTI-0005,D,Dominion Energy Inc.,135,Utilities,1123.05
+PF-CON-0004,TGT,Target Corporation,460,Consumer Goods,879.46
+PF-CON-0005,KO,The Coca-Cola Company,113,Consumer Goods,1496.02
+PF-HEA-0003,UNH,UnitedHealth Group,261,Healthcare,745.34
+PF-COM-0003,VZ,Verizon Communications,25,Communication,1293.04
+PF-HEA-0004,MRK,Merck & Co. Inc.,322,Healthcare,248.37
+PF-MAT-0006,SHW,Sherwin-Williams Company,217,Materials,898.65
+PF-CON-0006,COST,Costco Wholesale Corp.,196,Consumer Goods,897.87
+PF-IND-0002,LMT,Lockheed Martin Corp.,271,Industrials,384.61
+PF-UTI-0006,EXC,Exelon Corporation,441,Utilities,1414.22
+PF-MAT-0007,SHW,Sherwin-Williams Company,370,Materials,180.68
+PF-UTI-0007,D,Dominion Energy Inc.,385,Utilities,407.57
+PF-REA-0006,WELL,Welltower Inc.,175,Real Estate,176.21
+PF-IND-0003,CAT,Caterpillar Inc.,81,Industrials,686.05
+PF-MAT-0008,VMC,Vulcan Materials Company,449,Materials,1082.32
+PF-IND-0004,FDX,FedEx Corporation,391,Industrials,276.19
+PF-TEC-0006,IBM,IBM Corporation,446,Technology,941.7
+PF-REA-0007,DLR,Digital Realty Trust,260,Real Estate,917.37
+PF-HEA-0005,MRK,Merck & Co. Inc.,192,Healthcare,1146.14
+PF-UTI-0008,AEP,American Electric Power,489,Utilities,1170.15
+PF-UTI-0009,SO,Southern Company,471,Utilities,10.85
+PF-ENE-0004,MPC,Marathon Petroleum Corp.,251,Energy,39.02
+PF-CON-0007,KO,The Coca-Cola Company,450,Consumer Goods,1478.13
+PF-COM-0004,PARA,Paramount Global,158,Communication,366.78
+PF-FIN-0008,C,Citigroup Inc.,450,Finance,855.36
+PF-TEC-0007,INTC,Intel Corporation,44,Technology,1100.54
+PF-COM-0005,FOX,Fox Corporation,36,Communication,1467.2
+PF-UTI-0010,D,Dominion Energy Inc.,393,Utilities,197.38
+PF-REA-0008,EQR,Equity Residential,244,Real Estate,1420.8
+PF-HEA-0006,TMO,Thermo Fisher Scientific,136,Healthcare,796.23
+PF-REA-0009,CCI,Crown Castle Inc.,217,Real Estate,1446.9
+PF-UTI-0011,AEP,American Electric Power,387,Utilities,1097.6
+PF-FIN-0009,JPM,JPMorgan Chase & Co.,366,Finance,474.46
+PF-MAT-0009,LIN,Linde Plc,333,Materials,566.4
+PF-UTI-0012,DUK,Duke Energy Corporation,232,Utilities,190.3
+PF-FIN-0010,GS,Goldman Sachs Group,33,Finance,513.75
+PF-REA-0010,AMT,American Tower Corp.,284,Real Estate,352.87
+PF-FIN-0011,GS,Goldman Sachs Group,4,Finance,115.78
+PF-REA-0011,O,Realty Income Corporation,31,Real Estate,351.12
+PF-TEC-0008,NVDA,NVIDIA Corporation,441,Technology,502.34
+PF-UTI-0013,NEE,NextEra Energy Inc.,122,Utilities,424.93
+PF-IND-0005,GE,General Electric Company,110,Industrials,813.46
+PF-MAT-0010,VMC,Vulcan Materials Company,479,Materials,1324.75
+PF-UTI-0014,WEC,WEC Energy Group,243,Utilities,372.07
+PF-IND-0006,RTX,Raytheon Technologies,414,Industrials,616.52
+PF-TEC-0009,CSCO,Cisco Systems Inc.,50,Technology,991.88
+PF-CON-0008,PG,Procter & Gamble Co.,217,Consumer Goods,622.54
+PF-MAT-0011,MLM,Martin Marietta Materials,28,Materials,1013.31
+PF-REA-0012,WELL,Welltower Inc.,51,Real Estate,100.31
+PF-MAT-0012,MLM,Martin Marietta Materials,174,Materials,1202.88
+PF-TEC-0010,IBM,IBM Corporation,128,Technology,295.47
+PF-UTI-0015,D,Dominion Energy Inc.,230,Utilities,218.87
+PF-HEA-0007,BMY,Bristol-Myers Squibb,143,Healthcare,699.32
+PF-TEC-0011,ADBE,Adobe Inc.,227,Technology,1213.95
+PF-UTI-0016,EXC,Exelon Corporation,51,Utilities,85.38
+PF-UTI-0017,AEP,American Electric Power,429,Utilities,31.99
+PF-TEC-0012,AMD,Advanced Micro Devices,475,Technology,1132.81
+PF-FIN-0012,C,Citigroup Inc.,86,Finance,615.56
+PF-IND-0007,DE,Deere & Company,110,Industrials,1298.33
+PF-TEC-0013,ORCL,Oracle Corporation,85,Technology,574.67
+PF-CON-0009,COST,Costco Wholesale Corp.,136,Consumer Goods,1390.51
+PF-COM-0006,CHTR,Charter Communications,233,Communication,435.02
+PF-MAT-0013,NEM,Newmont Corporation,491,Materials,1098.45
+PF-COM-0007,CHTR,Charter Communications,285,Communication,996.19
+PF-IND-0008,GE,General Electric Company,80,Industrials,292.95
+PF-FIN-0013,WFC,Wells Fargo & Company,496,Finance,97.14
+PF-MAT-0014,IP,International Paper Co.,278,Materials,100.83
+PF-ENE-0005,PXD,Pioneer Natural Resources,30,Energy,84.71
+PF-IND-0009,DE,Deere & Company,258,Industrials,1379.89
+PF-UTI-0018,SO,Southern Company,81,Utilities,94.75
+PF-UTI-0019,NEE,NextEra Energy Inc.,42,Utilities,1278.5
+PF-TEC-0014,CRM,Salesforce Inc.,305,Technology,111.26
+PF-FIN-0014,C,Citigroup Inc.,207,Finance,188.63
+PF-UTI-0020,PCG,PG&E Corporation,127,Utilities,872.59
+PF-TEC-0015,META,Meta Platforms Inc.,318,Technology,132.16
+PF-REA-0013,EQR,Equity Residential,299,Real Estate,852.19
+PF-ENE-0006,PXD,Pioneer Natural Resources,479,Energy,398.54
+PF-MAT-0015,LIN,Linde Plc,367,Materials,478.13
+PF-FIN-0015,SPGI,S&P Global Inc.,203,Finance,205.01
+PF-REA-0014,WELL,Welltower Inc.,154,Real Estate,691.26
+PF-COM-0008,VZ,Verizon Communications,480,Communication,118.09
+PF-IND-0010,UPS,United Parcel Service,319,Industrials,1497.7
+PF-TEC-0016,CSCO,Cisco Systems Inc.,38,Technology,811.08
+PF-IND-0011,FDX,FedEx Corporation,136,Industrials,207.36
+PF-ENE-0007,PSX,Phillips 66,452,Energy,112.5
+PF-FIN-0016,AXP,American Express Company,190,Finance,434.63
+PF-IND-0012,BA,Boeing Company,427,Industrials,819.39
+PF-ENE-0008,SLB,SLB (Schlumberger),314,Energy,1475.94
+PF-COM-0009,PARA,Paramount Global,335,Communication,798.12
+PF-MAT-0016,LIN,Linde Plc,419,Materials,836.36
+PF-REA-0015,EQR,Equity Residential,54,Real Estate,1409.01
+PF-HEA-0008,UNH,UnitedHealth Group,136,Healthcare,181.99
+PF-TEC-0017,IBM,IBM Corporation,381,Technology,834.3
+PF-FIN-0017,CB,Chubb Limited,145,Finance,911.2
+PF-MAT-0017,NUE,Nucor Corporation,176,Materials,313.36
+PF-REA-0016,DLR,Digital Realty Trust,437,Real Estate,403.34
+PF-IND-0013,GE,General Electric Company,129,Industrials,1358.95
+PF-TEC-0018,TSLA,Tesla Inc.,48,Technology,955.08
+PF-ENE-0009,XOM,Exxon Mobil Corporation,23,Energy,15.28
+PF-COM-0010,NFLX,Netflix Inc.,67,Communication,959.3
+PF-FIN-0018,SPGI,S&P Global Inc.,83,Finance,1114.43
+PF-UTI-0021,EXC,Exelon Corporation,362,Utilities,647.25
+PF-TEC-0019,MSFT,Microsoft Corporation,58,Technology,122.11
+PF-MAT-0018,ECL,Ecolab Inc.,463,Materials,232.09
+PF-TEC-0020,NVDA,NVIDIA Corporation,428,Technology,560.13
+PF-UTI-0022,EXC,Exelon Corporation,76,Utilities,650.38
+PF-TEC-0021,META,Meta Platforms Inc.,158,Technology,553.33
+PF-COM-0011,TMUS,T-Mobile US Inc.,498,Communication,1292.45
+PF-CON-0010,PG,Procter & Gamble Co.,108,Consumer Goods,1026.28
+PF-MAT-0019,LIN,Linde Plc,53,Materials,536.98
+PF-UTI-0023,SRE,Sempra Energy,453,Utilities,1313.32
+PF-REA-0017,SPG,Simon Property Group,384,Real Estate,240.28
+PF-FIN-0019,C,Citigroup Inc.,443,Finance,252.13
+PF-COM-0012,WBD,Warner Bros. Discovery,416,Communication,273.81
+PF-CON-0011,SBUX,Starbucks Corporation,13,Consumer Goods,277.25
+PF-ENE-0010,VLO,Valero Energy Corporation,401,Energy,1396.92
+PF-COM-0013,WBD,Warner Bros. Discovery,343,Communication,1297.46
+PF-COM-0014,PARA,Paramount Global,128,Communication,407.54
+PF-COM-0015,CHTR,Charter Communications,360,Communication,171.06
+PF-TEC-0022,NVDA,NVIDIA Corporation,440,Technology,711.33
+PF-FIN-0020,JPM,JPMorgan Chase & Co.,419,Finance,1378.49
+PF-ENE-0011,PSX,Phillips 66,157,Energy,1232.6
+PF-FIN-0021,MS,Morgan Stanley,115,Finance,45.26
+PF-HEA-0009,AMGN,Amgen Inc.,205,Healthcare,499.11
+PF-TEC-0023,CRM,Salesforce Inc.,496,Technology,1162.26
+PF-ENE-0012,PSX,Phillips 66,329,Energy,769.01
+PF-MAT-0020,APD,Air Products & Chemicals,432,Materials,808.96
+PF-TEC-0024,AMZN,Amazon.com Inc.,60,Technology,1316.79
+PF-FIN-0022,SPGI,S&P Global Inc.,92,Finance,875.08
+PF-FIN-0023,SPGI,S&P Global Inc.,20,Finance,171.52
+PF-IND-0014,CAT,Caterpillar Inc.,177,Industrials,1095.53
+PF-ENE-0013,PXD,Pioneer Natural Resources,224,Energy,913.25
+PF-UTI-0024,NEE,NextEra Energy Inc.,60,Utilities,583.94
+PF-UTI-0025,WEC,WEC Energy Group,98,Utilities,389.54
+PF-MAT-0021,FCX,Freeport-McMoRan Inc.,224,Materials,12.52
+PF-COM-0016,PARA,Paramount Global,276,Communication,1033.42
+PF-MAT-0022,IP,International Paper Co.,378,Materials,1009.24
+PF-CON-0012,KO,The Coca-Cola Company,221,Consumer Goods,114.26
+PF-MAT-0023,LIN,Linde Plc,472,Materials,502.0
+PF-ENE-0014,PXD,Pioneer Natural Resources,340,Energy,1273.54
+PF-MAT-0024,VMC,Vulcan Materials Company,461,Materials,457.48
+PF-ENE-0015,EOG,EOG Resources Inc.,342,Energy,618.51
+PF-CON-0013,NKE,NIKE Inc.,357,Consumer Goods,450.53
+PF-HEA-0010,PFE,Pfizer Inc.,99,Healthcare,636.47
+PF-CON-0014,WMT,Walmart Inc.,347,Consumer Goods,1124.72
+PF-HEA-0011,MDT,Medtronic Plc,316,Healthcare,857.97
+PF-CON-0015,NKE,NIKE Inc.,281,Consumer Goods,1252.25
+PF-ENE-0016,SLB,SLB (Schlumberger),147,Energy,323.17
+PF-COM-0017,CHTR,Charter Communications,297,Communication,913.93
+PF-ENE-0017,MPC,Marathon Petroleum Corp.,239,Energy,668.26
+PF-MAT-0025,APD,Air Products & Chemicals,110,Materials,771.65
+PF-COM-0018,TMUS,T-Mobile US Inc.,462,Communication,1440.15
+PF-MAT-0026,IP,International Paper Co.,87,Materials,991.69
+PF-ENE-0018,CVX,Chevron Corporation,264,Energy,999.14
+PF-REA-0018,SPG,Simon Property Group,172,Real Estate,149.15
+PF-COM-0019,VZ,Verizon Communications,121,Communication,1012.47
+PF-FIN-0024,GS,Goldman Sachs Group,413,Finance,306.7
+PF-TEC-0025,AMZN,Amazon.com Inc.,24,Technology,374.82
+PF-IND-0015,RTX,Raytheon Technologies,313,Industrials,1276.11
+PF-TEC-0026,ADBE,Adobe Inc.,234,Technology,627.52
+PF-REA-0019,O,Realty Income Corporation,295,Real Estate,299.71
+PF-MAT-0027,NEM,Newmont Corporation,197,Materials,746.62
+PF-FIN-0025,AXP,American Express Company,76,Finance,987.53
+PF-TEC-0027,AAPL,Apple Inc.,458,Technology,1128.94
+PF-COM-0020,NFLX,Netflix Inc.,454,Communication,168.82
+PF-CON-0016,TGT,Target Corporation,113,Consumer Goods,272.07
+PF-MAT-0028,NEM,Newmont Corporation,266,Materials,702.18
+PF-UTI-0026,SRE,Sempra Energy,128,Utilities,1377.03
+PF-HEA-0012,JNJ,Johnson & Johnson,234,Healthcare,208.68
+PF-IND-0016,LMT,Lockheed Martin Corp.,342,Industrials,801.39
+PF-UTI-0027,SRE,Sempra Energy,305,Utilities,482.77
+PF-COM-0021,VZ,Verizon Communications,457,Communication,669.43
+PF-COM-0022,FOX,Fox Corporation,369,Communication,1339.11
+PF-CON-0017,TGT,Target Corporation,426,Consumer Goods,1361.21
+PF-IND-0017,HON,Honeywell International,460,Industrials,247.15
+PF-IND-0018,RTX,Raytheon Technologies,231,Industrials,396.2
+PF-FIN-0026,AXP,American Express Company,431,Finance,960.12
+PF-COM-0023,NFLX,Netflix Inc.,399,Communication,786.74
+PF-REA-0020,O,Realty Income Corporation,123,Real Estate,419.15
+PF-TEC-0028,ADBE,Adobe Inc.,366,Technology,435.73
+PF-FIN-0027,CB,Chubb Limited,172,Finance,486.37
+PF-UTI-0028,AEP,American Electric Power,42,Utilities,216.18
+PF-FIN-0028,MS,Morgan Stanley,197,Finance,1043.99
+PF-MAT-0029,FCX,Freeport-McMoRan Inc.,110,Materials,105.7
+PF-CON-0018,SBUX,Starbucks Corporation,170,Consumer Goods,818.49
+PF-CON-0019,HD,The Home Depot Inc.,32,Consumer Goods,318.18
+PF-CON-0020,HD,The Home Depot Inc.,200,Consumer Goods,1358.21
+PF-UTI-0029,ES,Eversource Energy,485,Utilities,1046.33
+PF-COM-0024,CMCSA,Comcast Corporation,295,Communication,576.77
+PF-TEC-0029,AAPL,Apple Inc.,483,Technology,534.12
+PF-COM-0025,VZ,Verizon Communications,200,Communication,1281.64
+PF-CON-0021,HD,The Home Depot Inc.,276,Consumer Goods,1123.8
+PF-UTI-0030,AEP,American Electric Power,410,Utilities,908.85
+PF-FIN-0029,GS,Goldman Sachs Group,250,Finance,336.94
+PF-IND-0019,CAT,Caterpillar Inc.,249,Industrials,53.25
+PF-ENE-0019,OXY,Occidental Petroleum,343,Energy,1021.92
+PF-CON-0022,NKE,NIKE Inc.,371,Consumer Goods,255.92
+PF-IND-0020,LMT,Lockheed Martin Corp.,471,Industrials,200.17
+PF-REA-0021,SPG,Simon Property Group,274,Real Estate,50.18
+PF-CON-0023,MCD,McDonald's Corporation,304,Consumer Goods,850.94
+PF-TEC-0030,AMZN,Amazon.com Inc.,43,Technology,967.7
+PF-HEA-0013,UNH,UnitedHealth Group,444,Healthcare,697.93
+PF-TEC-0031,TSLA,Tesla Inc.,134,Technology,574.86
+PF-FIN-0030,WFC,Wells Fargo & Company,233,Finance,497.0
+PF-COM-0026,CMCSA,Comcast Corporation,451,Communication,574.9
+PF-COM-0027,VZ,Verizon Communications,488,Communication,1249.57
+PF-FIN-0031,BLK,BlackRock Inc.,428,Finance,132.04
+PF-TEC-0032,GOOGL,Alphabet Inc.,384,Technology,813.73
+PF-ENE-0020,PSX,Phillips 66,115,Energy,978.71
+PF-COM-0028,DIS,The Walt Disney Company,491,Communication,981.11
+PF-COM-0029,VZ,Verizon Communications,16,Communication,1424.92
+PF-FIN-0032,JPM,JPMorgan Chase & Co.,430,Finance,40.37
+PF-HEA-0014,MRK,Merck & Co. Inc.,123,Healthcare,198.07
+PF-MAT-0030,LIN,Linde Plc,59,Materials,850.31
+PF-FIN-0033,WFC,Wells Fargo & Company,239,Finance,1052.2
+PF-COM-0030,NFLX,Netflix Inc.,189,Communication,260.01
+PF-REA-0022,CCI,Crown Castle Inc.,494,Real Estate,1124.41
+PF-TEC-0033,QCOM,Qualcomm Inc.,399,Technology,1230.76
+PF-ENE-0021,EOG,EOG Resources Inc.,56,Energy,872.24
+PF-ENE-0022,EOG,EOG Resources Inc.,295,Energy,1019.25
+PF-CON-0024,WMT,Walmart Inc.,204,Consumer Goods,1412.79
+PF-FIN-0034,JPM,JPMorgan Chase & Co.,39,Finance,892.23
+PF-REA-0023,O,Realty Income Corporation,125,Real Estate,161.83
+PF-COM-0031,NFLX,Netflix Inc.,155,Communication,1276.94
+PF-REA-0024,PLD,Prologis Inc.,413,Real Estate,190.37
+PF-UTI-0031,PCG,PG&E Corporation,401,Utilities,71.19
+PF-UTI-0032,D,Dominion Energy Inc.,220,Utilities,995.67
+PF-TEC-0034,CRM,Salesforce Inc.,260,Technology,974.84
+PF-TEC-0035,MSFT,Microsoft Corporation,435,Technology,635.89
+PF-IND-0021,GE,General Electric Company,55,Industrials,655.95
+PF-CON-0025,KO,The Coca-Cola Company,326,Consumer Goods,1338.45
+PF-IND-0022,UPS,United Parcel Service,363,Industrials,237.96
+PF-HEA-0015,MDT,Medtronic Plc,376,Healthcare,787.4
+PF-REA-0025,AVB,AvalonBay Communities,139,Real Estate,927.71
+PF-UTI-0033,D,Dominion Energy Inc.,397,Utilities,730.41
+PF-IND-0023,CAT,Caterpillar Inc.,423,Industrials,1099.23
+PF-FIN-0035,CB,Chubb Limited,166,Finance,1279.05
+PF-TEC-0036,AMD,Advanced Micro Devices,143,Technology,1323.63
+PF-FIN-0036,AXP,American Express Company,385,Finance,702.42
+PF-REA-0026,EQIX,Equinix Inc.,343,Real Estate,574.69
+PF-TEC-0037,AMZN,Amazon.com Inc.,254,Technology,1277.92
+PF-HEA-0016,BMY,Bristol-Myers Squibb,250,Healthcare,326.06
+PF-COM-0032,WBD,Warner Bros. Discovery,133,Communication,517.1
+PF-REA-0027,PLD,Prologis Inc.,360,Real Estate,1321.36
+PF-UTI-0034,SRE,Sempra Energy,6,Utilities,779.77
+PF-HEA-0017,AMGN,Amgen Inc.,44,Healthcare,369.62
+PF-CON-0026,SBUX,Starbucks Corporation,251,Consumer Goods,837.21
+PF-FIN-0037,C,Citigroup Inc.,354,Finance,719.38
+PF-MAT-0031,NUE,Nucor Corporation,252,Materials,677.78
+PF-TEC-0038,GOOGL,Alphabet Inc.,48,Technology,448.41
+PF-CON-0027,NKE,NIKE Inc.,355,Consumer Goods,372.52
+PF-REA-0028,EQR,Equity Residential,298,Real Estate,559.84
+PF-UTI-0035,EXC,Exelon Corporation,272,Utilities,522.2
+PF-COM-0033,T,AT&T Inc.,282,Communication,502.88
+PF-MAT-0032,NEM,Newmont Corporation,233,Materials,413.67
+PF-FIN-0038,BLK,BlackRock Inc.,119,Finance,189.78
+PF-HEA-0018,AMGN,Amgen Inc.,162,Healthcare,188.14
+PF-UTI-0036,D,Dominion Energy Inc.,487,Utilities,1145.66
+PF-HEA-0019,BMY,Bristol-Myers Squibb,99,Healthcare,332.41
+PF-IND-0024,DE,Deere & Company,142,Industrials,1089.63
+PF-COM-0034,CMCSA,Comcast Corporation,269,Communication,899.22
+PF-TEC-0039,CSCO,Cisco Systems Inc.,427,Technology,299.24
+PF-FIN-0039,MS,Morgan Stanley,185,Finance,277.37
+PF-TEC-0040,MSFT,Microsoft Corporation,363,Technology,805.86
+PF-ENE-0023,XOM,Exxon Mobil Corporation,24,Energy,1461.7
+PF-UTI-0037,EXC,Exelon Corporation,150,Utilities,1049.15
+PF-HEA-0020,PFE,Pfizer Inc.,327,Healthcare,1304.01
+PF-IND-0025,GE,General Electric Company,53,Industrials,1310.35
+PF-UTI-0038,WEC,WEC Energy Group,146,Utilities,709.4
+PF-IND-0026,BA,Boeing Company,175,Industrials,284.7
+PF-TEC-0041,TSLA,Tesla Inc.,130,Technology,1412.18
+PF-IND-0027,DE,Deere & Company,59,Industrials,1234.95
+PF-CON-0028,NKE,NIKE Inc.,252,Consumer Goods,120.38
+PF-REA-0029,O,Realty Income Corporation,352,Real Estate,89.88
+PF-HEA-0021,MRK,Merck & Co. Inc.,416,Healthcare,848.63
+PF-ENE-0024,SLB,SLB (Schlumberger),44,Energy,1490.94
+PF-HEA-0022,JNJ,Johnson & Johnson,286,Healthcare,1149.02
+PF-REA-0030,CCI,Crown Castle Inc.,306,Real Estate,1188.2
+PF-FIN-0040,GS,Goldman Sachs Group,398,Finance,788.63
+PF-IND-0028,HON,Honeywell International,466,Industrials,669.65
+PF-REA-0031,AMT,American Tower Corp.,220,Real Estate,465.02
+PF-REA-0032,SPG,Simon Property Group,31,Real Estate,918.35
+PF-MAT-0033,IP,International Paper Co.,51,Materials,1421.91
+PF-FIN-0041,BAC,Bank of America Corp.,321,Finance,324.43
+PF-REA-0033,EQR,Equity Residential,42,Real Estate,244.02
+PF-HEA-0023,MDT,Medtronic Plc,283,Healthcare,121.85
+PF-TEC-0042,AAPL,Apple Inc.,210,Technology,681.25
+PF-REA-0034,PLD,Prologis Inc.,241,Real Estate,443.98
+PF-FIN-0042,MS,Morgan Stanley,148,Finance,1063.36
+PF-MAT-0034,NEM,Newmont Corporation,441,Materials,686.51
+PF-MAT-0035,SHW,Sherwin-Williams Company,120,Materials,1386.63
+PF-COM-0035,CHTR,Charter Communications,406,Communication,941.34
+PF-REA-0035,EQR,Equity Residential,412,Real Estate,1401.17
+PF-CON-0029,TGT,Target Corporation,59,Consumer Goods,821.4
+PF-REA-0036,WELL,Welltower Inc.,77,Real Estate,1363.53
+PF-HEA-0024,ABT,Abbott Laboratories,37,Healthcare,98.86
+PF-COM-0036,TMUS,T-Mobile US Inc.,158,Communication,896.62
+PF-UTI-0039,PCG,PG&E Corporation,472,Utilities,440.03
+PF-HEA-0025,JNJ,Johnson & Johnson,240,Healthcare,1036.13
+PF-MAT-0036,NEM,Newmont Corporation,207,Materials,1414.59
+PF-IND-0029,FDX,FedEx Corporation,277,Industrials,745.75
+PF-TEC-0043,INTC,Intel Corporation,307,Technology,69.39
+PF-IND-0030,CAT,Caterpillar Inc.,377,Industrials,490.26
+PF-FIN-0043,BLK,BlackRock Inc.,14,Finance,146.08
+PF-MAT-0037,APD,Air Products & Chemicals,429,Materials,1292.17
+PF-REA-0037,AMT,American Tower Corp.,487,Real Estate,40.91
+PF-COM-0037,CMCSA,Comcast Corporation,345,Communication,1233.92
+PF-UTI-0040,WEC,WEC Energy Group,21,Utilities,1147.03
+PF-HEA-0026,MDT,Medtronic Plc,241,Healthcare,783.26
+PF-IND-0031,BA,Boeing Company,470,Industrials,424.45
+PF-UTI-0041,ES,Eversource Energy,224,Utilities,955.83
+PF-IND-0032,GE,General Electric Company,497,Industrials,145.95
+PF-ENE-0025,PSX,Phillips 66,210,Energy,506.63
+PF-MAT-0038,LIN,Linde Plc,54,Materials,1288.02
+PF-ENE-0026,VLO,Valero Energy Corporation,211,Energy,1043.57
+PF-ENE-0027,CVX,Chevron Corporation,340,Energy,1418.34
+PF-COM-0038,FOX,Fox Corporation,390,Communication,829.64
+PF-IND-0033,UPS,United Parcel Service,46,Industrials,478.63
+PF-ENE-0028,MPC,Marathon Petroleum Corp.,60,Energy,1455.58
+PF-CON-0030,NKE,NIKE Inc.,443,Consumer Goods,776.75
+PF-TEC-0044,AAPL,Apple Inc.,337,Technology,1305.36
+PF-IND-0034,LMT,Lockheed Martin Corp.,212,Industrials,90.76
+PF-UTI-0042,DUK,Duke Energy Corporation,186,Utilities,937.72
+PF-IND-0035,MMM,3M Company,321,Industrials,668.64
+PF-TEC-0045,TSLA,Tesla Inc.,105,Technology,407.91
+PF-HEA-0027,PFE,Pfizer Inc.,475,Healthcare,439.16
+PF-MAT-0039,NEM,Newmont Corporation,249,Materials,190.92
+PF-REA-0038,O,Realty Income Corporation,312,Real Estate,1200.98
+PF-MAT-0040,FCX,Freeport-McMoRan Inc.,82,Materials,473.02
+PF-TEC-0046,MSFT,Microsoft Corporation,283,Technology,617.91
+PF-FIN-0044,GS,Goldman Sachs Group,431,Finance,1370.27
+PF-IND-0036,LMT,Lockheed Martin Corp.,485,Industrials,185.02
+PF-HEA-0028,MRK,Merck & Co. Inc.,256,Healthcare,1399.65
+PF-ENE-0029,COP,ConocoPhillips,261,Energy,1061.06
+PF-CON-0031,HD,The Home Depot Inc.,428,Consumer Goods,728.92
+PF-IND-0037,RTX,Raytheon Technologies,125,Industrials,690.61
+PF-HEA-0029,ABT,Abbott Laboratories,197,Healthcare,294.01
+PF-REA-0039,PLD,Prologis Inc.,261,Real Estate,1121.98
+PF-HEA-0030,UNH,UnitedHealth Group,443,Healthcare,114.02
+PF-COM-0039,NFLX,Netflix Inc.,405,Communication,1283.07
+PF-ENE-0030,OXY,Occidental Petroleum,479,Energy,1183.7
+PF-FIN-0045,CB,Chubb Limited,421,Finance,13.82
+PF-MAT-0041,VMC,Vulcan Materials Company,153,Materials,1257.84
+PF-UTI-0043,ES,Eversource Energy,338,Utilities,739.56
+PF-HEA-0031,MRK,Merck & Co. Inc.,229,Healthcare,812.49
+PF-ENE-0031,PSX,Phillips 66,171,Energy,832.36
+PF-UTI-0044,AEP,American Electric Power,194,Utilities,688.46
+PF-ENE-0032,MPC,Marathon Petroleum Corp.,446,Energy,291.09
+PF-MAT-0042,NEM,Newmont Corporation,123,Materials,861.98
+PF-FIN-0046,MS,Morgan Stanley,439,Finance,1165.56
+PF-TEC-0047,META,Meta Platforms Inc.,163,Technology,1119.61
+PF-MAT-0043,FCX,Freeport-McMoRan Inc.,468,Materials,1219.0
+PF-CON-0032,COST,Costco Wholesale Corp.,340,Consumer Goods,1190.67
+PF-REA-0040,AVB,AvalonBay Communities,78,Real Estate,748.04
+PF-TEC-0048,NVDA,NVIDIA Corporation,65,Technology,758.41
+PF-REA-0041,AMT,American Tower Corp.,170,Real Estate,1305.85
+PF-IND-0038,BA,Boeing Company,52,Industrials,793.67
+PF-IND-0039,UPS,United Parcel Service,8,Industrials,1086.44
+PF-CON-0033,SBUX,Starbucks Corporation,446,Consumer Goods,985.62
+PF-HEA-0032,MRK,Merck & Co. Inc.,39,Healthcare,709.54
+PF-FIN-0047,SPGI,S&P Global Inc.,174,Finance,938.66
+PF-CON-0034,MCD,McDonald's Corporation,333,Consumer Goods,129.67
+PF-ENE-0033,VLO,Valero Energy Corporation,437,Energy,1014.79
+PF-UTI-0045,D,Dominion Energy Inc.,195,Utilities,1431.67
+PF-REA-0042,O,Realty Income Corporation,368,Real Estate,1332.28
+PF-IND-0040,GE,General Electric Company,447,Industrials,816.11
+PF-REA-0043,SPG,Simon Property Group,36,Real Estate,359.81
+PF-MAT-0044,SHW,Sherwin-Williams Company,472,Materials,438.19
+PF-FIN-0048,MS,Morgan Stanley,383,Finance,144.67
+PF-TEC-0049,CSCO,Cisco Systems Inc.,390,Technology,954.28
+PF-TEC-0050,CSCO,Cisco Systems Inc.,228,Technology,257.88
+PF-ENE-0034,SLB,SLB (Schlumberger),463,Energy,53.13
+PF-ENE-0035,MPC,Marathon Petroleum Corp.,408,Energy,93.62
+PF-CON-0035,PG,Procter & Gamble Co.,192,Consumer Goods,651.72
+PF-FIN-0049,AXP,American Express Company,272,Finance,623.96
+PF-MAT-0045,SHW,Sherwin-Williams Company,406,Materials,278.28
+PF-HEA-0033,MDT,Medtronic Plc,41,Healthcare,918.14
+PF-CON-0036,WMT,Walmart Inc.,318,Consumer Goods,1027.87
+PF-IND-0041,MMM,3M Company,468,Industrials,878.9
+PF-FIN-0050,MS,Morgan Stanley,237,Finance,960.48
+PF-IND-0042,UPS,United Parcel Service,131,Industrials,1003.59
+PF-COM-0040,WBD,Warner Bros. Discovery,239,Communication,1352.8
+PF-MAT-0046,APD,Air Products & Chemicals,280,Materials,245.38
+PF-IND-0043,BA,Boeing Company,484,Industrials,524.89
+PF-REA-0044,AMT,American Tower Corp.,154,Real Estate,962.02
+PF-CON-0037,TGT,Target Corporation,354,Consumer Goods,382.65
+PF-ENE-0036,SLB,SLB (Schlumberger),102,Energy,1499.07
+PF-IND-0044,DE,Deere & Company,55,Industrials,363.44
+PF-UTI-0046,WEC,WEC Energy Group,184,Utilities,866.47
+PF-MAT-0047,NEM,Newmont Corporation,152,Materials,42.69
+PF-REA-0045,EQR,Equity Residential,203,Real Estate,418.98
+PF-UTI-0047,PCG,PG&E Corporation,443,Utilities,1031.84
+PF-COM-0041,T,AT&T Inc.,499,Communication,83.08
+PF-REA-0046,CCI,Crown Castle Inc.,382,Real Estate,750.12
+PF-ENE-0037,CVX,Chevron Corporation,398,Energy,1200.3
+PF-REA-0047,CCI,Crown Castle Inc.,411,Real Estate,534.96
+PF-REA-0048,DLR,Digital Realty Trust,98,Real Estate,935.13
+PF-MAT-0048,APD,Air Products & Chemicals,387,Materials,1084.18
+PF-REA-0049,EQR,Equity Residential,349,Real Estate,1259.12
+PF-REA-0050,O,Realty Income Corporation,50,Real Estate,1356.07
+PF-REA-0051,WELL,Welltower Inc.,21,Real Estate,470.31
+PF-IND-0045,BA,Boeing Company,18,Industrials,873.56
+PF-MAT-0049,MLM,Martin Marietta Materials,68,Materials,144.3
+PF-ENE-0038,COP,ConocoPhillips,168,Energy,1123.75
+PF-HEA-0034,MDT,Medtronic Plc,103,Healthcare,206.92
+PF-UTI-0048,AEP,American Electric Power,449,Utilities,1457.52
+PF-UTI-0049,SO,Southern Company,257,Utilities,1371.1
+PF-HEA-0035,TMO,Thermo Fisher Scientific,132,Healthcare,1371.93
+PF-IND-0046,DE,Deere & Company,496,Industrials,1211.67
+PF-COM-0042,T,AT&T Inc.,446,Communication,514.69
+PF-TEC-0051,QCOM,Qualcomm Inc.,240,Technology,1444.71
+PF-HEA-0036,ABT,Abbott Laboratories,387,Healthcare,1450.09
+PF-MAT-0050,APD,Air Products & Chemicals,371,Materials,1014.87
+PF-CON-0038,MCD,McDonald's Corporation,496,Consumer Goods,1270.16
+PF-UTI-0050,SRE,Sempra Energy,188,Utilities,144.55
+PF-CON-0039,MCD,McDonald's Corporation,8,Consumer Goods,404.04
+PF-HEA-0037,JNJ,Johnson & Johnson,233,Healthcare,559.19
+PF-COM-0043,T,AT&T Inc.,345,Communication,400.62
+PF-CON-0040,WMT,Walmart Inc.,422,Consumer Goods,961.44
+PF-CON-0041,PEP,PepsiCo Inc.,56,Consumer Goods,1015.51
+PF-IND-0047,RTX,Raytheon Technologies,13,Industrials,933.12
+PF-UTI-0051,SRE,Sempra Energy,168,Utilities,1373.73
+PF-FIN-0051,GS,Goldman Sachs Group,332,Finance,104.19
+PF-IND-0048,LMT,Lockheed Martin Corp.,466,Industrials,1054.6
+PF-REA-0052,AVB,AvalonBay Communities,210,Real Estate,183.85
+PF-TEC-0052,META,Meta Platforms Inc.,485,Technology,65.45
+PF-IND-0049,MMM,3M Company,60,Industrials,154.82
+PF-UTI-0052,D,Dominion Energy Inc.,70,Utilities,589.08
+PF-CON-0042,PEP,PepsiCo Inc.,344,Consumer Goods,1424.58
+PF-MAT-0051,NEM,Newmont Corporation,485,Materials,814.89
+PF-REA-0053,AMT,American Tower Corp.,381,Real Estate,1092.63
+PF-CON-0043,HD,The Home Depot Inc.,336,Consumer Goods,157.54
+PF-IND-0050,GE,General Electric Company,316,Industrials,618.09
+PF-ENE-0039,XOM,Exxon Mobil Corporation,17,Energy,1038.52
+PF-FIN-0052,WFC,Wells Fargo & Company,228,Finance,672.6
+PF-FIN-0053,C,Citigroup Inc.,438,Finance,550.4
+PF-MAT-0052,SHW,Sherwin-Williams Company,189,Materials,821.25
+PF-REA-0054,WELL,Welltower Inc.,184,Real Estate,100.22
+PF-ENE-0040,XOM,Exxon Mobil Corporation,98,Energy,1452.63
+PF-IND-0051,UPS,United Parcel Service,47,Industrials,997.53
+PF-REA-0055,WELL,Welltower Inc.,328,Real Estate,899.75
+PF-TEC-0053,GOOGL,Alphabet Inc.,26,Technology,1182.32
+PF-FIN-0054,AXP,American Express Company,65,Finance,1182.6
+PF-FIN-0055,BAC,Bank of America Corp.,36,Finance,1246.43
+PF-UTI-0053,EXC,Exelon Corporation,107,Utilities,883.71
+PF-COM-0044,FOX,Fox Corporation,446,Communication,357.17
+PF-COM-0045,DIS,The Walt Disney Company,76,Communication,1185.08
+PF-REA-0056,PLD,Prologis Inc.,2,Real Estate,423.14
+PF-HEA-0038,ABT,Abbott Laboratories,67,Healthcare,814.92
+PF-COM-0046,WBD,Warner Bros. Discovery,90,Communication,173.79
+PF-TEC-0054,AMZN,Amazon.com Inc.,68,Technology,32.14
+PF-COM-0047,TMUS,T-Mobile US Inc.,404,Communication,364.52
+PF-ENE-0041,MPC,Marathon Petroleum Corp.,9,Energy,269.63
+PF-TEC-0055,TSLA,Tesla Inc.,65,Technology,1115.16
+PF-UTI-0054,SO,Southern Company,59,Utilities,1121.04
+PF-IND-0052,RTX,Raytheon Technologies,230,Industrials,1169.25
+PF-UTI-0055,NEE,NextEra Energy Inc.,304,Utilities,172.49
+PF-IND-0053,FDX,FedEx Corporation,114,Industrials,1418.67
+PF-TEC-0056,META,Meta Platforms Inc.,373,Technology,1177.01
+PF-REA-0057,EQR,Equity Residential,267,Real Estate,459.43
+PF-REA-0058,WELL,Welltower Inc.,494,Real Estate,56.41
+PF-IND-0054,DE,Deere & Company,434,Industrials,608.41
+PF-MAT-0053,SHW,Sherwin-Williams Company,56,Materials,740.5
+PF-IND-0055,BA,Boeing Company,38,Industrials,1349.91
+PF-ENE-0042,MPC,Marathon Petroleum Corp.,312,Energy,231.02
+PF-HEA-0039,PFE,Pfizer Inc.,141,Healthcare,940.23
+PF-UTI-0056,ES,Eversource Energy,281,Utilities,1071.11
+PF-CON-0044,WMT,Walmart Inc.,306,Consumer Goods,800.53
+PF-IND-0056,UPS,United Parcel Service,259,Industrials,912.09
+PF-TEC-0057,CSCO,Cisco Systems Inc.,407,Technology,1055.65
+PF-REA-0059,AVB,AvalonBay Communities,334,Real Estate,1317.78
+PF-UTI-0057,EXC,Exelon Corporation,370,Utilities,1299.58
+PF-IND-0057,CAT,Caterpillar Inc.,232,Industrials,1333.26
+PF-CON-0045,SBUX,Starbucks Corporation,174,Consumer Goods,1242.85
+PF-CON-0046,NKE,NIKE Inc.,213,Consumer Goods,1097.12
+PF-ENE-0043,PXD,Pioneer Natural Resources,219,Energy,475.66
+PF-FIN-0056,BLK,BlackRock Inc.,192,Finance,1430.85
+PF-MAT-0054,SHW,Sherwin-Williams Company,473,Materials,716.66
+PF-TEC-0058,AMD,Advanced Micro Devices,426,Technology,137.19
+PF-IND-0058,CAT,Caterpillar Inc.,50,Industrials,1119.44
+PF-CON-0047,PEP,PepsiCo Inc.,416,Consumer Goods,203.87
+PF-TEC-0059,ORCL,Oracle Corporation,301,Technology,1435.37
+PF-UTI-0058,SRE,Sempra Energy,169,Utilities,1008.32
+PF-CON-0048,SBUX,Starbucks Corporation,182,Consumer Goods,1311.67
+PF-COM-0048,VZ,Verizon Communications,217,Communication,1303.46
+PF-MAT-0055,VMC,Vulcan Materials Company,27,Materials,1452.91
+PF-REA-0060,PLD,Prologis Inc.,160,Real Estate,533.95
+PF-UTI-0059,WEC,WEC Energy Group,260,Utilities,326.98
+PF-REA-0061,EQR,Equity Residential,247,Real Estate,344.12
+PF-TEC-0060,IBM,IBM Corporation,180,Technology,1269.61
+PF-CON-0049,PEP,PepsiCo Inc.,59,Consumer Goods,1146.28
+PF-UTI-0060,WEC,WEC Energy Group,116,Utilities,1212.76
+PF-UTI-0061,SRE,Sempra Energy,499,Utilities,1153.47
+PF-REA-0062,SPG,Simon Property Group,315,Real Estate,1015.72
+PF-UTI-0062,SRE,Sempra Energy,14,Utilities,917.4
+PF-REA-0063,EQR,Equity Residential,425,Real Estate,1043.27
+PF-TEC-0061,AMZN,Amazon.com Inc.,93,Technology,417.17
+PF-COM-0049,CMCSA,Comcast Corporation,159,Communication,1383.09
+PF-ENE-0044,PSX,Phillips 66,4,Energy,280.29
+PF-HEA-0040,ABT,Abbott Laboratories,290,Healthcare,989.44
+PF-TEC-0062,CRM,Salesforce Inc.,73,Technology,1114.04
+PF-TEC-0063,AMZN,Amazon.com Inc.,47,Technology,1121.71
+PF-FIN-0057,WFC,Wells Fargo & Company,193,Finance,635.55
+PF-ENE-0045,OXY,Occidental Petroleum,81,Energy,561.38
+PF-MAT-0056,VMC,Vulcan Materials Company,167,Materials,1167.49
+PF-UTI-0063,PCG,PG&E Corporation,306,Utilities,136.59
+PF-TEC-0064,TSLA,Tesla Inc.,80,Technology,244.54
+PF-REA-0064,SPG,Simon Property Group,26,Real Estate,1014.21
+PF-FIN-0058,CB,Chubb Limited,227,Finance,996.29
+PF-IND-0059,GE,General Electric Company,311,Industrials,668.65
+PF-FIN-0059,CB,Chubb Limited,111,Finance,1134.87
+PF-TEC-0065,QCOM,Qualcomm Inc.,177,Technology,650.57
+PF-ENE-0046,CVX,Chevron Corporation,348,Energy,1020.94
+PF-IND-0060,GE,General Electric Company,270,Industrials,1004.03
+PF-TEC-0066,META,Meta Platforms Inc.,113,Technology,598.94
+PF-REA-0065,PLD,Prologis Inc.,29,Real Estate,21.45
+PF-ENE-0047,SLB,SLB (Schlumberger),485,Energy,324.74
+PF-HEA-0041,UNH,UnitedHealth Group,392,Healthcare,390.72
+PF-ENE-0048,MPC,Marathon Petroleum Corp.,62,Energy,21.52
+PF-COM-0050,T,AT&T Inc.,221,Communication,271.79
+PF-CON-0050,WMT,Walmart Inc.,273,Consumer Goods,1058.47
+PF-IND-0061,FDX,FedEx Corporation,287,Industrials,1251.7
+PF-COM-0051,PARA,Paramount Global,182,Communication,117.39
+PF-MAT-0057,IP,International Paper Co.,22,Materials,659.97
+PF-IND-0062,UPS,United Parcel Service,472,Industrials,126.02
+PF-ENE-0049,PXD,Pioneer Natural Resources,295,Energy,649.63
+PF-CON-0051,NKE,NIKE Inc.,364,Consumer Goods,963.81
+PF-ENE-0050,COP,ConocoPhillips,59,Energy,613.5
+PF-ENE-0051,MPC,Marathon Petroleum Corp.,88,Energy,1203.97
+PF-REA-0066,SPG,Simon Property Group,236,Real Estate,1249.72
+PF-CON-0052,KO,The Coca-Cola Company,46,Consumer Goods,660.7
+PF-TEC-0067,IBM,IBM Corporation,125,Technology,659.16
+PF-CON-0053,NKE,NIKE Inc.,269,Consumer Goods,127.18
+PF-ENE-0052,EOG,EOG Resources Inc.,382,Energy,515.87
+PF-ENE-0053,VLO,Valero Energy Corporation,399,Energy,260.52
+PF-UTI-0064,NEE,NextEra Energy Inc.,325,Utilities,179.9
+PF-UTI-0065,NEE,NextEra Energy Inc.,100,Utilities,1359.82
+PF-ENE-0054,PSX,Phillips 66,180,Energy,1093.79
+PF-COM-0052,FOX,Fox Corporation,331,Communication,1224.41
+PF-FIN-0060,C,Citigroup Inc.,53,Finance,228.2
+PF-FIN-0061,JPM,JPMorgan Chase & Co.,89,Finance,907.57
+PF-COM-0053,CMCSA,Comcast Corporation,389,Communication,986.71
+PF-HEA-0042,MDT,Medtronic Plc,488,Healthcare,1161.54
+PF-IND-0063,MMM,3M Company,238,Industrials,1134.12
+PF-COM-0054,CMCSA,Comcast Corporation,297,Communication,678.87
+PF-UTI-0066,PCG,PG&E Corporation,330,Utilities,956.59
+PF-REA-0067,SPG,Simon Property Group,166,Real Estate,1297.73
+PF-REA-0068,O,Realty Income Corporation,162,Real Estate,234.93
+PF-TEC-0068,CRM,Salesforce Inc.,241,Technology,668.89
+PF-ENE-0055,SLB,SLB (Schlumberger),408,Energy,419.26
+PF-TEC-0069,ORCL,Oracle Corporation,181,Technology,765.93
+PF-ENE-0056,EOG,EOG Resources Inc.,237,Energy,683.35
+PF-TEC-0070,ORCL,Oracle Corporation,189,Technology,1249.23
+PF-TEC-0071,ADBE,Adobe Inc.,331,Technology,1297.73
+PF-TEC-0072,AMD,Advanced Micro Devices,315,Technology,895.18
+PF-CON-0054,COST,Costco Wholesale Corp.,237,Consumer Goods,874.69
+PF-COM-0055,TMUS,T-Mobile US Inc.,379,Communication,1344.86
+PF-IND-0064,HON,Honeywell International,466,Industrials,1216.63
+PF-REA-0069,AVB,AvalonBay Communities,97,Real Estate,489.07
+PF-IND-0065,RTX,Raytheon Technologies,257,Industrials,234.78
+PF-TEC-0073,ORCL,Oracle Corporation,231,Technology,164.22
+PF-ENE-0057,OXY,Occidental Petroleum,366,Energy,135.65
+PF-REA-0070,WELL,Welltower Inc.,89,Real Estate,68.32
+PF-MAT-0058,FCX,Freeport-McMoRan Inc.,225,Materials,1486.57
+PF-UTI-0067,SO,Southern Company,268,Utilities,918.61
+PF-CON-0055,KO,The Coca-Cola Company,191,Consumer Goods,1377.73
+PF-CON-0056,COST,Costco Wholesale Corp.,210,Consumer Goods,1163.95
+PF-MAT-0059,APD,Air Products & Chemicals,307,Materials,88.02
+PF-REA-0071,O,Realty Income Corporation,332,Real Estate,508.63
+PF-ENE-0058,VLO,Valero Energy Corporation,49,Energy,841.37
+PF-CON-0057,COST,Costco Wholesale Corp.,146,Consumer Goods,385.47
+PF-REA-0072,EQR,Equity Residential,494,Real Estate,1360.45
+PF-HEA-0043,MRK,Merck & Co. Inc.,171,Healthcare,131.44
+PF-REA-0073,EQR,Equity Residential,73,Real Estate,1375.95
+PF-ENE-0059,EOG,EOG Resources Inc.,496,Energy,987.52
+PF-REA-0074,EQR,Equity Residential,201,Real Estate,202.14
+PF-MAT-0060,FCX,Freeport-McMoRan Inc.,481,Materials,136.23
+PF-UTI-0068,SRE,Sempra Energy,193,Utilities,968.8
+PF-ENE-0060,VLO,Valero Energy Corporation,417,Energy,200.41
+PF-MAT-0061,NEM,Newmont Corporation,425,Materials,1421.19
+PF-MAT-0062,SHW,Sherwin-Williams Company,468,Materials,794.33
+PF-REA-0075,WELL,Welltower Inc.,344,Real Estate,640.88
+PF-CON-0058,KO,The Coca-Cola Company,10,Consumer Goods,550.27
+PF-HEA-0044,BMY,Bristol-Myers Squibb,487,Healthcare,329.15
+PF-COM-0056,NFLX,Netflix Inc.,249,Communication,296.09
+PF-HEA-0045,UNH,UnitedHealth Group,80,Healthcare,124.98
+PF-COM-0057,CHTR,Charter Communications,52,Communication,766.46
+PF-UTI-0069,AEP,American Electric Power,428,Utilities,1110.58
+PF-UTI-0070,SO,Southern Company,20,Utilities,996.27
+PF-COM-0058,NFLX,Netflix Inc.,317,Communication,205.26
+PF-CON-0059,WMT,Walmart Inc.,79,Consumer Goods,251.75
+PF-MAT-0063,ECL,Ecolab Inc.,395,Materials,940.86
+PF-HEA-0046,TMO,Thermo Fisher Scientific,370,Healthcare,662.13
+PF-CON-0060,SBUX,Starbucks Corporation,187,Consumer Goods,1017.78
+PF-FIN-0062,C,Citigroup Inc.,497,Finance,671.86
+PF-ENE-0061,CVX,Chevron Corporation,386,Energy,1125.32
+PF-IND-0066,HON,Honeywell International,120,Industrials,805.68
+PF-ENE-0062,EOG,EOG Resources Inc.,495,Energy,1214.85
+PF-IND-0067,RTX,Raytheon Technologies,463,Industrials,1254.32
+PF-CON-0061,PEP,PepsiCo Inc.,348,Consumer Goods,1421.22
+PF-IND-0068,BA,Boeing Company,237,Industrials,1156.46
+PF-COM-0059,DIS,The Walt Disney Company,196,Communication,759.33
+PF-CON-0062,HD,The Home Depot Inc.,495,Consumer Goods,251.47
+PF-FIN-0063,JPM,JPMorgan Chase & Co.,411,Finance,910.95
+PF-FIN-0064,BLK,BlackRock Inc.,27,Finance,965.36
+PF-CON-0063,PEP,PepsiCo Inc.,284,Consumer Goods,1402.1
+PF-MAT-0064,NUE,Nucor Corporation,434,Materials,778.7
+PF-HEA-0047,JNJ,Johnson & Johnson,146,Healthcare,134.97
+PF-HEA-0048,LLY,Eli Lilly and Company,140,Healthcare,679.49
+PF-UTI-0071,NEE,NextEra Energy Inc.,76,Utilities,1248.26
+PF-TEC-0074,AMD,Advanced Micro Devices,485,Technology,1366.65
+PF-COM-0060,FOX,Fox Corporation,231,Communication,1328.1
+PF-TEC-0075,AMZN,Amazon.com Inc.,213,Technology,89.35
+PF-IND-0069,FDX,FedEx Corporation,192,Industrials,361.31
+PF-TEC-0076,INTC,Intel Corporation,192,Technology,344.56
+PF-ENE-0063,PXD,Pioneer Natural Resources,477,Energy,157.63
+PF-MAT-0065,NUE,Nucor Corporation,333,Materials,509.58
+PF-HEA-0049,ABT,Abbott Laboratories,71,Healthcare,67.07
+PF-IND-0070,RTX,Raytheon Technologies,357,Industrials,1248.35
+PF-COM-0061,CMCSA,Comcast Corporation,362,Communication,708.97
+PF-REA-0076,EQIX,Equinix Inc.,3,Real Estate,1359.73
+PF-TEC-0077,GOOGL,Alphabet Inc.,132,Technology,331.33
+PF-HEA-0050,MRK,Merck & Co. Inc.,281,Healthcare,1410.94
+PF-REA-0077,CCI,Crown Castle Inc.,271,Real Estate,640.65
+PF-COM-0062,DIS,The Walt Disney Company,148,Communication,364.08
+PF-HEA-0051,JNJ,Johnson & Johnson,25,Healthcare,365.27
+PF-REA-0078,DLR,Digital Realty Trust,407,Real Estate,937.99
+PF-TEC-0078,CRM,Salesforce Inc.,57,Technology,1256.66
+PF-IND-0071,MMM,3M Company,306,Industrials,808.72
+PF-REA-0079,O,Realty Income Corporation,264,Real Estate,866.82
+PF-MAT-0066,NUE,Nucor Corporation,74,Materials,444.0
+PF-TEC-0079,AAPL,Apple Inc.,315,Technology,535.7
+PF-UTI-0072,WEC,WEC Energy Group,214,Utilities,289.1
+PF-MAT-0067,LIN,Linde Plc,44,Materials,789.99
+PF-CON-0064,KO,The Coca-Cola Company,35,Consumer Goods,1430.57
+PF-UTI-0073,AEP,American Electric Power,260,Utilities,1181.75
+PF-IND-0072,FDX,FedEx Corporation,284,Industrials,40.3
+PF-IND-0073,RTX,Raytheon Technologies,23,Industrials,957.15
+PF-CON-0065,PEP,PepsiCo Inc.,130,Consumer Goods,1123.5
+PF-CON-0066,PG,Procter & Gamble Co.,404,Consumer Goods,110.66
+PF-FIN-0065,C,Citigroup Inc.,376,Finance,989.09
+PF-TEC-0080,IBM,IBM Corporation,396,Technology,877.04
+PF-COM-0063,VZ,Verizon Communications,171,Communication,208.78
+PF-CON-0067,PG,Procter & Gamble Co.,280,Consumer Goods,514.44
+PF-REA-0080,WELL,Welltower Inc.,90,Real Estate,1247.27
+PF-MAT-0068,SHW,Sherwin-Williams Company,238,Materials,1471.42
+PF-IND-0074,DE,Deere & Company,324,Industrials,281.59
+PF-HEA-0052,UNH,UnitedHealth Group,33,Healthcare,1076.91
+PF-IND-0075,UPS,United Parcel Service,19,Industrials,447.23
+PF-TEC-0081,META,Meta Platforms Inc.,406,Technology,307.21
+PF-TEC-0082,META,Meta Platforms Inc.,162,Technology,1400.72
+PF-UTI-0074,NEE,NextEra Energy Inc.,204,Utilities,1483.79
+PF-UTI-0075,AEP,American Electric Power,243,Utilities,387.44
+PF-COM-0064,VZ,Verizon Communications,332,Communication,294.74
+PF-CON-0068,PG,Procter & Gamble Co.,442,Consumer Goods,1173.45
+PF-REA-0081,AVB,AvalonBay Communities,170,Real Estate,417.09
+PF-COM-0065,WBD,Warner Bros. Discovery,189,Communication,661.06
+PF-CON-0069,NKE,NIKE Inc.,381,Consumer Goods,665.21
+PF-CON-0070,COST,Costco Wholesale Corp.,174,Consumer Goods,1460.85
+PF-IND-0076,MMM,3M Company,355,Industrials,751.31
+PF-COM-0066,WBD,Warner Bros. Discovery,266,Communication,407.41
+PF-TEC-0083,INTC,Intel Corporation,373,Technology,642.5
+PF-IND-0077,CAT,Caterpillar Inc.,309,Industrials,1492.7
+PF-HEA-0053,BMY,Bristol-Myers Squibb,280,Healthcare,447.71
+PF-TEC-0084,IBM,IBM Corporation,41,Technology,498.6
+PF-ENE-0064,COP,ConocoPhillips,157,Energy,674.41
+PF-MAT-0069,NUE,Nucor Corporation,219,Materials,258.3
+PF-IND-0078,BA,Boeing Company,180,Industrials,676.22
+PF-MAT-0070,MLM,Martin Marietta Materials,446,Materials,1368.29
+PF-REA-0082,EQIX,Equinix Inc.,223,Real Estate,419.09
+PF-COM-0067,TMUS,T-Mobile US Inc.,486,Communication,95.46
+PF-MAT-0071,LIN,Linde Plc,327,Materials,615.25
+PF-UTI-0076,NEE,NextEra Energy Inc.,411,Utilities,1127.35
+PF-HEA-0054,LLY,Eli Lilly and Company,488,Healthcare,56.4
+PF-REA-0083,CCI,Crown Castle Inc.,348,Real Estate,1174.15
+PF-TEC-0085,NVDA,NVIDIA Corporation,65,Technology,110.18
+PF-COM-0068,DIS,The Walt Disney Company,331,Communication,555.83
+PF-CON-0071,COST,Costco Wholesale Corp.,487,Consumer Goods,855.19
+PF-REA-0084,CCI,Crown Castle Inc.,79,Real Estate,1021.8
+PF-CON-0072,PEP,PepsiCo Inc.,191,Consumer Goods,671.47
+PF-TEC-0086,ADBE,Adobe Inc.,294,Technology,215.17
+PF-CON-0073,KO,The Coca-Cola Company,204,Consumer Goods,478.43
+PF-ENE-0065,XOM,Exxon Mobil Corporation,128,Energy,1441.17
+PF-TEC-0087,AMZN,Amazon.com Inc.,377,Technology,287.21
+PF-UTI-0077,DUK,Duke Energy Corporation,199,Utilities,1371.18
+PF-HEA-0055,JNJ,Johnson & Johnson,135,Healthcare,1164.7
+PF-MAT-0072,FCX,Freeport-McMoRan Inc.,229,Materials,329.71
+PF-REA-0085,EQIX,Equinix Inc.,147,Real Estate,1044.03
+PF-IND-0079,GE,General Electric Company,103,Industrials,192.73
+PF-TEC-0088,ADBE,Adobe Inc.,232,Technology,267.26
+PF-MAT-0073,NUE,Nucor Corporation,228,Materials,1495.92
+PF-COM-0069,PARA,Paramount Global,350,Communication,1451.67
+PF-ENE-0066,PXD,Pioneer Natural Resources,342,Energy,527.66
+PF-TEC-0089,CRM,Salesforce Inc.,282,Technology,817.84
+PF-ENE-0067,SLB,SLB (Schlumberger),436,Energy,244.68
+PF-MAT-0074,FCX,Freeport-McMoRan Inc.,475,Materials,1053.33
+PF-HEA-0056,MDT,Medtronic Plc,407,Healthcare,548.62
+PF-FIN-0066,GS,Goldman Sachs Group,63,Finance,1477.85
+PF-COM-0070,TMUS,T-Mobile US Inc.,72,Communication,362.74
+PF-IND-0080,MMM,3M Company,14,Industrials,547.74
+PF-UTI-0078,WEC,WEC Energy Group,189,Utilities,706.43
+PF-UTI-0079,EXC,Exelon Corporation,67,Utilities,921.8
+PF-TEC-0090,AMD,Advanced Micro Devices,34,Technology,470.84
+PF-MAT-0075,NUE,Nucor Corporation,369,Materials,723.21
+PF-CON-0074,SBUX,Starbucks Corporation,394,Consumer Goods,620.06
+PF-UTI-0080,WEC,WEC Energy Group,38,Utilities,196.74
+PF-ENE-0068,PXD,Pioneer Natural Resources,329,Energy,120.51
+PF-IND-0081,LMT,Lockheed Martin Corp.,349,Industrials,780.87
+PF-HEA-0057,PFE,Pfizer Inc.,450,Healthcare,1245.29
+PF-UTI-0081,EXC,Exelon Corporation,328,Utilities,885.8
+PF-COM-0071,NFLX,Netflix Inc.,495,Communication,202.26
+PF-IND-0082,FDX,FedEx Corporation,467,Industrials,1303.64
+PF-HEA-0058,JNJ,Johnson & Johnson,266,Healthcare,237.99
+PF-HEA-0059,TMO,Thermo Fisher Scientific,83,Healthcare,490.76
+PF-MAT-0076,FCX,Freeport-McMoRan Inc.,116,Materials,525.57
+PF-UTI-0082,DUK,Duke Energy Corporation,459,Utilities,433.23
+PF-TEC-0091,INTC,Intel Corporation,129,Technology,302.49
+PF-UTI-0083,EXC,Exelon Corporation,141,Utilities,196.5
+PF-ENE-0069,SLB,SLB (Schlumberger),315,Energy,804.88
+PF-IND-0083,FDX,FedEx Corporation,329,Industrials,261.27
+PF-UTI-0084,ES,Eversource Energy,79,Utilities,265.09
+PF-REA-0086,SPG,Simon Property Group,369,Real Estate,1353.98
+PF-ENE-0070,OXY,Occidental Petroleum,432,Energy,1386.66
+PF-TEC-0092,META,Meta Platforms Inc.,423,Technology,1297.03
+PF-TEC-0093,INTC,Intel Corporation,24,Technology,1423.33
+PF-COM-0072,NFLX,Netflix Inc.,296,Communication,404.34
+PF-FIN-0067,BAC,Bank of America Corp.,393,Finance,862.48
+PF-REA-0087,SPG,Simon Property Group,328,Real Estate,55.13
+PF-REA-0088,O,Realty Income Corporation,280,Real Estate,441.61
+PF-ENE-0071,SLB,SLB (Schlumberger),248,Energy,374.87
+PF-COM-0073,PARA,Paramount Global,351,Communication,615.08
+PF-IND-0084,UPS,United Parcel Service,38,Industrials,1036.03
+PF-HEA-0060,LLY,Eli Lilly and Company,226,Healthcare,629.28
+PF-IND-0085,LMT,Lockheed Martin Corp.,105,Industrials,516.89
+PF-HEA-0061,ABT,Abbott Laboratories,161,Healthcare,1293.61
+PF-ENE-0072,PXD,Pioneer Natural Resources,376,Energy,1482.15
+PF-ENE-0073,PSX,Phillips 66,500,Energy,604.09
+PF-COM-0074,CMCSA,Comcast Corporation,190,Communication,777.32
+PF-TEC-0094,IBM,IBM Corporation,164,Technology,370.19
+PF-HEA-0062,JNJ,Johnson & Johnson,137,Healthcare,679.9
+PF-HEA-0063,ABT,Abbott Laboratories,50,Healthcare,85.4
+PF-CON-0075,COST,Costco Wholesale Corp.,443,Consumer Goods,926.91
+PF-FIN-0068,AXP,American Express Company,493,Finance,1299.31
+PF-HEA-0064,LLY,Eli Lilly and Company,417,Healthcare,497.88
+PF-UTI-0085,WEC,WEC Energy Group,370,Utilities,475.95
+PF-COM-0075,CMCSA,Comcast Corporation,82,Communication,752.42
+PF-UTI-0086,NEE,NextEra Energy Inc.,240,Utilities,753.15
+PF-ENE-0074,EOG,EOG Resources Inc.,255,Energy,44.53
+PF-CON-0076,MCD,McDonald's Corporation,259,Consumer Goods,691.27
+PF-FIN-0069,C,Citigroup Inc.,111,Finance,879.18
+PF-TEC-0095,TSLA,Tesla Inc.,26,Technology,429.22
+PF-REA-0089,PLD,Prologis Inc.,452,Real Estate,1265.85
+PF-MAT-0077,APD,Air Products & Chemicals,241,Materials,435.77
+PF-TEC-0096,MSFT,Microsoft Corporation,434,Technology,170.17
+PF-HEA-0065,UNH,UnitedHealth Group,452,Healthcare,404.06
+PF-CON-0077,KO,The Coca-Cola Company,392,Consumer Goods,610.85
+PF-TEC-0097,META,Meta Platforms Inc.,206,Technology,86.22
+PF-UTI-0087,SRE,Sempra Energy,100,Utilities,550.16
+PF-ENE-0075,CVX,Chevron Corporation,38,Energy,585.66
+PF-IND-0086,HON,Honeywell International,392,Industrials,829.29
+PF-REA-0090,SPG,Simon Property Group,349,Real Estate,920.45
+PF-HEA-0066,PFE,Pfizer Inc.,500,Healthcare,154.06
+PF-CON-0078,PEP,PepsiCo Inc.,407,Consumer Goods,1480.31
+PF-UTI-0088,SRE,Sempra Energy,481,Utilities,554.75
+PF-HEA-0067,ABT,Abbott Laboratories,102,Healthcare,907.67
+PF-CON-0079,NKE,NIKE Inc.,257,Consumer Goods,69.98
+PF-TEC-0098,NVDA,NVIDIA Corporation,71,Technology,1073.25
+PF-COM-0076,WBD,Warner Bros. Discovery,243,Communication,783.81
+PF-HEA-0068,MRK,Merck & Co. Inc.,311,Healthcare,1340.77
+PF-HEA-0069,UNH,UnitedHealth Group,168,Healthcare,1397.74
+PF-ENE-0076,PXD,Pioneer Natural Resources,84,Energy,595.5
+PF-REA-0091,EQIX,Equinix Inc.,379,Real Estate,1265.48
+PF-REA-0092,AMT,American Tower Corp.,173,Real Estate,765.9
+PF-UTI-0089,NEE,NextEra Energy Inc.,273,Utilities,739.87
+PF-UTI-0090,PCG,PG&E Corporation,154,Utilities,717.59
+PF-TEC-0099,GOOGL,Alphabet Inc.,189,Technology,503.55
+PF-TEC-0100,QCOM,Qualcomm Inc.,214,Technology,879.72
+PF-COM-0077,TMUS,T-Mobile US Inc.,461,Communication,1090.73
+PF-MAT-0078,ECL,Ecolab Inc.,323,Materials,49.7
+PF-IND-0087,RTX,Raytheon Technologies,136,Industrials,1450.94
+PF-COM-0078,CHTR,Charter Communications,498,Communication,1166.48
+PF-UTI-0091,WEC,WEC Energy Group,117,Utilities,1084.89
+PF-UTI-0092,ES,Eversource Energy,246,Utilities,264.06
+PF-REA-0093,O,Realty Income Corporation,370,Real Estate,933.41
+PF-CON-0080,WMT,Walmart Inc.,76,Consumer Goods,1234.28
+PF-FIN-0070,AXP,American Express Company,17,Finance,863.13
+PF-MAT-0079,NEM,Newmont Corporation,57,Materials,294.27
+PF-IND-0088,BA,Boeing Company,161,Industrials,633.98
+PF-CON-0081,SBUX,Starbucks Corporation,354,Consumer Goods,313.8
+PF-IND-0089,FDX,FedEx Corporation,397,Industrials,921.1
+PF-IND-0090,RTX,Raytheon Technologies,447,Industrials,1274.08
+PF-MAT-0080,MLM,Martin Marietta Materials,32,Materials,1061.61
+PF-UTI-0093,DUK,Duke Energy Corporation,107,Utilities,845.72
+PF-REA-0094,EQR,Equity Residential,245,Real Estate,792.96
+PF-ENE-0077,PXD,Pioneer Natural Resources,490,Energy,268.04
+PF-UTI-0094,D,Dominion Energy Inc.,176,Utilities,823.95
+PF-MAT-0081,APD,Air Products & Chemicals,396,Materials,1302.81
+PF-MAT-0082,SHW,Sherwin-Williams Company,330,Materials,1207.44
+PF-FIN-0071,SPGI,S&P Global Inc.,313,Finance,731.43
+PF-FIN-0072,AXP,American Express Company,143,Finance,841.55
+PF-FIN-0073,GS,Goldman Sachs Group,483,Finance,1459.64
+PF-ENE-0078,SLB,SLB (Schlumberger),395,Energy,440.62
+PF-FIN-0074,BAC,Bank of America Corp.,354,Finance,1060.43
+PF-ENE-0079,PXD,Pioneer Natural Resources,246,Energy,529.72
+PF-COM-0079,TMUS,T-Mobile US Inc.,370,Communication,417.45
+PF-HEA-0070,JNJ,Johnson & Johnson,294,Healthcare,1018.17
+PF-CON-0082,WMT,Walmart Inc.,459,Consumer Goods,1470.44
+PF-COM-0080,FOX,Fox Corporation,177,Communication,1432.37
+PF-COM-0081,WBD,Warner Bros. Discovery,75,Communication,442.77
+PF-ENE-0080,CVX,Chevron Corporation,490,Energy,1074.07
+PF-ENE-0081,PSX,Phillips 66,474,Energy,669.14
+PF-FIN-0075,BLK,BlackRock Inc.,383,Finance,723.83
+PF-FIN-0076,JPM,JPMorgan Chase & Co.,424,Finance,812.48
+PF-UTI-0095,SRE,Sempra Energy,357,Utilities,414.72
+PF-TEC-0101,IBM,IBM Corporation,316,Technology,1113.93
+PF-FIN-0077,C,Citigroup Inc.,125,Finance,85.64
+PF-UTI-0096,SO,Southern Company,116,Utilities,960.54
+PF-TEC-0102,TSLA,Tesla Inc.,52,Technology,625.82
+PF-MAT-0083,NUE,Nucor Corporation,242,Materials,159.81
+PF-COM-0082,NFLX,Netflix Inc.,71,Communication,17.72
+PF-UTI-0097,EXC,Exelon Corporation,476,Utilities,245.33
+PF-REA-0095,AVB,AvalonBay Communities,479,Real Estate,1322.16
+PF-IND-0091,RTX,Raytheon Technologies,245,Industrials,979.3
+PF-COM-0083,VZ,Verizon Communications,494,Communication,438.0
+PF-ENE-0082,CVX,Chevron Corporation,331,Energy,98.15
+PF-COM-0084,NFLX,Netflix Inc.,46,Communication,981.93
+PF-FIN-0078,MS,Morgan Stanley,274,Finance,1110.64
+PF-TEC-0103,NVDA,NVIDIA Corporation,468,Technology,1382.99
+PF-CON-0083,HD,The Home Depot Inc.,452,Consumer Goods,1258.03
+PF-TEC-0104,NVDA,NVIDIA Corporation,429,Technology,601.52
+PF-IND-0092,MMM,3M Company,96,Industrials,1405.55
+PF-ENE-0083,COP,ConocoPhillips,449,Energy,65.82
+PF-ENE-0084,SLB,SLB (Schlumberger),291,Energy,908.15
+PF-ENE-0085,VLO,Valero Energy Corporation,146,Energy,686.98
+PF-REA-0096,WELL,Welltower Inc.,279,Real Estate,791.23
+PF-HEA-0071,UNH,UnitedHealth Group,436,Healthcare,761.28
+PF-FIN-0079,CB,Chubb Limited,99,Finance,1215.13
+PF-ENE-0086,VLO,Valero Energy Corporation,84,Energy,1099.37
+PF-REA-0097,WELL,Welltower Inc.,132,Real Estate,1080.71
+PF-TEC-0105,MSFT,Microsoft Corporation,378,Technology,512.3
+PF-ENE-0087,COP,ConocoPhillips,291,Energy,1014.86
+PF-HEA-0072,AMGN,Amgen Inc.,90,Healthcare,920.32
+PF-REA-0098,DLR,Digital Realty Trust,460,Real Estate,614.18
+PF-CON-0084,TGT,Target Corporation,264,Consumer Goods,498.61
+PF-CON-0085,NKE,NIKE Inc.,343,Consumer Goods,152.12
+PF-HEA-0073,UNH,UnitedHealth Group,245,Healthcare,492.17
+PF-FIN-0080,AXP,American Express Company,4,Finance,398.57
+PF-FIN-0081,C,Citigroup Inc.,229,Finance,1133.1
+PF-ENE-0088,VLO,Valero Energy Corporation,155,Energy,877.87
+PF-UTI-0098,WEC,WEC Energy Group,6,Utilities,399.71
+PF-CON-0086,KO,The Coca-Cola Company,355,Consumer Goods,362.09
+PF-MAT-0084,LIN,Linde Plc,61,Materials,703.44
+PF-HEA-0074,LLY,Eli Lilly and Company,208,Healthcare,1032.25
+PF-MAT-0085,FCX,Freeport-McMoRan Inc.,395,Materials,473.36
+PF-HEA-0075,JNJ,Johnson & Johnson,328,Healthcare,1375.03
+PF-ENE-0089,COP,ConocoPhillips,189,Energy,925.79
+PF-FIN-0082,GS,Goldman Sachs Group,491,Finance,209.02
+PF-HEA-0076,MRK,Merck & Co. Inc.,233,Healthcare,1124.12
+PF-REA-0099,CCI,Crown Castle Inc.,192,Real Estate,629.61
+PF-UTI-0099,EXC,Exelon Corporation,468,Utilities,711.53
+PF-UTI-0100,D,Dominion Energy Inc.,411,Utilities,999.5
+PF-FIN-0083,WFC,Wells Fargo & Company,391,Finance,378.72
+PF-COM-0085,VZ,Verizon Communications,306,Communication,1310.97
+PF-TEC-0106,INTC,Intel Corporation,270,Technology,675.65
+PF-MAT-0086,FCX,Freeport-McMoRan Inc.,186,Materials,126.37
+PF-UTI-0101,PCG,PG&E Corporation,58,Utilities,102.02
+PF-UTI-0102,EXC,Exelon Corporation,463,Utilities,763.18
+PF-UTI-0103,WEC,WEC Energy Group,275,Utilities,233.28
+PF-ENE-0090,MPC,Marathon Petroleum Corp.,438,Energy,785.31
+PF-TEC-0107,QCOM,Qualcomm Inc.,349,Technology,316.05
+PF-UTI-0104,ES,Eversource Energy,251,Utilities,145.5
+PF-UTI-0105,NEE,NextEra Energy Inc.,229,Utilities,1214.95
+PF-IND-0093,UPS,United Parcel Service,68,Industrials,774.74
+PF-IND-0094,UPS,United Parcel Service,289,Industrials,96.03
+PF-IND-0095,LMT,Lockheed Martin Corp.,345,Industrials,1212.3
+PF-MAT-0087,VMC,Vulcan Materials Company,12,Materials,599.96
+PF-COM-0086,FOX,Fox Corporation,2,Communication,1121.25
+PF-UTI-0106,ES,Eversource Energy,38,Utilities,77.48
+PF-ENE-0091,PSX,Phillips 66,359,Energy,105.0
+PF-TEC-0108,ORCL,Oracle Corporation,479,Technology,1342.39
+PF-IND-0096,RTX,Raytheon Technologies,17,Industrials,437.77
+PF-HEA-0077,BMY,Bristol-Myers Squibb,394,Healthcare,211.79
+PF-REA-0100,WELL,Welltower Inc.,374,Real Estate,972.36
+PF-CON-0087,HD,The Home Depot Inc.,192,Consumer Goods,1489.36
+PF-CON-0088,WMT,Walmart Inc.,230,Consumer Goods,1305.73
+PF-CON-0089,WMT,Walmart Inc.,193,Consumer Goods,129.57
+PF-REA-0101,EQR,Equity Residential,448,Real Estate,813.56
+PF-REA-0102,AVB,AvalonBay Communities,441,Real Estate,528.18
+PF-HEA-0078,MDT,Medtronic Plc,276,Healthcare,595.66
+PF-HEA-0079,PFE,Pfizer Inc.,373,Healthcare,1468.3
+PF-TEC-0109,AAPL,Apple Inc.,388,Technology,43.88
+PF-ENE-0092,SLB,SLB (Schlumberger),238,Energy,1013.51
+PF-UTI-0107,AEP,American Electric Power,218,Utilities,802.58
+PF-FIN-0084,MS,Morgan Stanley,127,Finance,696.33
+PF-HEA-0080,MRK,Merck & Co. Inc.,142,Healthcare,290.84
+PF-MAT-0088,VMC,Vulcan Materials Company,392,Materials,178.14
+PF-COM-0087,PARA,Paramount Global,339,Communication,634.67
+PF-COM-0088,NFLX,Netflix Inc.,480,Communication,1326.8
+PF-TEC-0110,GOOGL,Alphabet Inc.,124,Technology,317.06
+PF-TEC-0111,CSCO,Cisco Systems Inc.,305,Technology,60.03
+PF-REA-0103,PLD,Prologis Inc.,345,Real Estate,1057.9
+PF-TEC-0112,TSLA,Tesla Inc.,126,Technology,1113.41
+PF-CON-0090,NKE,NIKE Inc.,225,Consumer Goods,359.17
+PF-FIN-0085,WFC,Wells Fargo & Company,387,Finance,1296.96
+PF-TEC-0113,ORCL,Oracle Corporation,72,Technology,760.8
+PF-ENE-0093,COP,ConocoPhillips,120,Energy,1225.52
+PF-MAT-0089,MLM,Martin Marietta Materials,295,Materials,485.17
+PF-REA-0104,PLD,Prologis Inc.,396,Real Estate,1012.07
+PF-ENE-0094,MPC,Marathon Petroleum Corp.,122,Energy,459.63
+PF-HEA-0081,ABT,Abbott Laboratories,339,Healthcare,786.66
+PF-CON-0091,SBUX,Starbucks Corporation,154,Consumer Goods,419.98
+PF-UTI-0108,SRE,Sempra Energy,486,Utilities,891.58
+PF-MAT-0090,IP,International Paper Co.,467,Materials,270.95
+PF-MAT-0091,APD,Air Products & Chemicals,219,Materials,838.22
+PF-TEC-0114,TSLA,Tesla Inc.,498,Technology,523.18
+PF-REA-0105,WELL,Welltower Inc.,344,Real Estate,577.92
+PF-UTI-0109,SO,Southern Company,164,Utilities,1047.5
+PF-CON-0092,SBUX,Starbucks Corporation,77,Consumer Goods,456.83
+PF-HEA-0082,BMY,Bristol-Myers Squibb,387,Healthcare,811.51
+PF-FIN-0086,C,Citigroup Inc.,435,Finance,345.76
+PF-MAT-0092,FCX,Freeport-McMoRan Inc.,74,Materials,1210.61
+PF-TEC-0115,ORCL,Oracle Corporation,288,Technology,624.89
+PF-CON-0093,HD,The Home Depot Inc.,286,Consumer Goods,799.69
+PF-CON-0094,COST,Costco Wholesale Corp.,125,Consumer Goods,389.94
+PF-ENE-0095,VLO,Valero Energy Corporation,332,Energy,127.81
+PF-IND-0097,HON,Honeywell International,434,Industrials,562.91
+PF-UTI-0110,D,Dominion Energy Inc.,371,Utilities,1245.82
+PF-TEC-0116,TSLA,Tesla Inc.,138,Technology,571.98
+PF-REA-0106,CCI,Crown Castle Inc.,309,Real Estate,68.93
+PF-TEC-0117,ADBE,Adobe Inc.,97,Technology,1208.93
+PF-REA-0107,AMT,American Tower Corp.,371,Real Estate,1010.46
+PF-FIN-0087,WFC,Wells Fargo & Company,246,Finance,321.24
+PF-ENE-0096,VLO,Valero Energy Corporation,156,Energy,1435.96
+PF-TEC-0118,MSFT,Microsoft Corporation,109,Technology,1406.37
+PF-MAT-0093,IP,International Paper Co.,61,Materials,1122.85
+PF-COM-0089,VZ,Verizon Communications,246,Communication,1372.52
+PF-MAT-0094,NEM,Newmont Corporation,310,Materials,1058.62
+PF-CON-0095,MCD,McDonald's Corporation,469,Consumer Goods,366.6
+PF-ENE-0097,MPC,Marathon Petroleum Corp.,398,Energy,431.76
+PF-IND-0098,LMT,Lockheed Martin Corp.,274,Industrials,976.59
+PF-ENE-0098,EOG,EOG Resources Inc.,134,Energy,545.87
+PF-IND-0099,MMM,3M Company,239,Industrials,156.93
+PF-MAT-0095,VMC,Vulcan Materials Company,241,Materials,1144.83
+PF-ENE-0099,PXD,Pioneer Natural Resources,469,Energy,312.66
+PF-ENE-0100,PXD,Pioneer Natural Resources,212,Energy,78.12
+PF-FIN-0088,GS,Goldman Sachs Group,380,Finance,227.42
+PF-FIN-0089,SPGI,S&P Global Inc.,284,Finance,1402.79
+PF-UTI-0111,ES,Eversource Energy,369,Utilities,632.19
+PF-HEA-0083,MRK,Merck & Co. Inc.,101,Healthcare,501.5
+PF-CON-0096,WMT,Walmart Inc.,292,Consumer Goods,1251.71
+PF-IND-0100,MMM,3M Company,282,Industrials,985.37
+PF-MAT-0096,SHW,Sherwin-Williams Company,173,Materials,393.42
+PF-IND-0101,GE,General Electric Company,495,Industrials,1088.1
+PF-MAT-0097,IP,International Paper Co.,252,Materials,696.64
+PF-MAT-0098,MLM,Martin Marietta Materials,408,Materials,534.74
+PF-HEA-0084,UNH,UnitedHealth Group,369,Healthcare,824.35
+PF-HEA-0085,BMY,Bristol-Myers Squibb,470,Healthcare,1335.15
+PF-REA-0108,WELL,Welltower Inc.,491,Real Estate,97.51
+PF-TEC-0119,NVDA,NVIDIA Corporation,430,Technology,1271.58
+PF-COM-0090,FOX,Fox Corporation,343,Communication,82.29
+PF-TEC-0120,AAPL,Apple Inc.,212,Technology,214.86
+PF-REA-0109,O,Realty Income Corporation,119,Real Estate,111.27
+PF-HEA-0086,MRK,Merck & Co. Inc.,5,Healthcare,335.89
+PF-IND-0102,UPS,United Parcel Service,192,Industrials,100.07
+PF-REA-0110,DLR,Digital Realty Trust,342,Real Estate,1401.52
+PF-IND-0103,DE,Deere & Company,338,Industrials,736.9
+PF-TEC-0121,AAPL,Apple Inc.,273,Technology,831.95
+PF-TEC-0122,MSFT,Microsoft Corporation,9,Technology,798.83
+PF-ENE-0101,XOM,Exxon Mobil Corporation,275,Energy,1466.44
+PF-TEC-0123,GOOGL,Alphabet Inc.,258,Technology,1221.6
+PF-MAT-0099,APD,Air Products & Chemicals,221,Materials,1211.19
+PF-HEA-0087,MDT,Medtronic Plc,55,Healthcare,1377.89
+PF-UTI-0112,SO,Southern Company,77,Utilities,369.04
+PF-REA-0111,SPG,Simon Property Group,270,Real Estate,386.1
+PF-CON-0097,PG,Procter & Gamble Co.,137,Consumer Goods,1194.46
+PF-TEC-0124,INTC,Intel Corporation,192,Technology,1439.35
+PF-IND-0104,UPS,United Parcel Service,290,Industrials,372.38
+PF-MAT-0100,NEM,Newmont Corporation,116,Materials,456.96
+PF-TEC-0125,INTC,Intel Corporation,335,Technology,1487.6
+PF-REA-0112,AVB,AvalonBay Communities,389,Real Estate,57.21
+PF-CON-0098,NKE,NIKE Inc.,195,Consumer Goods,571.98
+PF-IND-0105,RTX,Raytheon Technologies,29,Industrials,958.75
+PF-MAT-0101,NEM,Newmont Corporation,88,Materials,133.2
+PF-IND-0106,CAT,Caterpillar Inc.,331,Industrials,1178.72
+PF-UTI-0113,PCG,PG&E Corporation,440,Utilities,1461.02
+PF-UTI-0114,SO,Southern Company,471,Utilities,73.4
+PF-FIN-0090,WFC,Wells Fargo & Company,462,Finance,1303.49
+PF-UTI-0115,PCG,PG&E Corporation,244,Utilities,413.93
+PF-TEC-0126,ADBE,Adobe Inc.,351,Technology,1389.12
+PF-UTI-0116,AEP,American Electric Power,289,Utilities,990.58
+PF-HEA-0088,MDT,Medtronic Plc,476,Healthcare,1277.14
+PF-TEC-0127,GOOGL,Alphabet Inc.,493,Technology,318.67
+PF-HEA-0089,ABT,Abbott Laboratories,386,Healthcare,1232.83
+PF-CON-0099,MCD,McDonald's Corporation,476,Consumer Goods,124.64
+PF-HEA-0090,LLY,Eli Lilly and Company,289,Healthcare,368.3
+PF-CON-0100,COST,Costco Wholesale Corp.,347,Consumer Goods,1345.82
+PF-ENE-0102,VLO,Valero Energy Corporation,197,Energy,1135.86
+PF-HEA-0091,UNH,UnitedHealth Group,405,Healthcare,1482.83
+PF-MAT-0102,VMC,Vulcan Materials Company,41,Materials,756.18
+PF-ENE-0103,PSX,Phillips 66,28,Energy,155.55
+PF-FIN-0091,MS,Morgan Stanley,430,Finance,123.27
+PF-REA-0113,CCI,Crown Castle Inc.,394,Real Estate,924.66
+PF-REA-0114,PLD,Prologis Inc.,204,Real Estate,1453.69
+PF-ENE-0104,MPC,Marathon Petroleum Corp.,16,Energy,954.84
+PF-COM-0091,CHTR,Charter Communications,231,Communication,741.0
+PF-CON-0101,PG,Procter & Gamble Co.,284,Consumer Goods,1412.3
+PF-IND-0107,CAT,Caterpillar Inc.,96,Industrials,1022.75
+PF-REA-0115,EQR,Equity Residential,195,Real Estate,137.68
+PF-REA-0116,SPG,Simon Property Group,152,Real Estate,1199.1
+PF-MAT-0103,NUE,Nucor Corporation,38,Materials,132.24
+PF-HEA-0092,MRK,Merck & Co. Inc.,195,Healthcare,1070.4
+PF-REA-0117,DLR,Digital Realty Trust,79,Real Estate,1112.09
+PF-ENE-0105,PXD,Pioneer Natural Resources,185,Energy,168.76
+PF-TEC-0128,AAPL,Apple Inc.,483,Technology,469.32
+PF-CON-0102,KO,The Coca-Cola Company,390,Consumer Goods,411.95
+PF-HEA-0093,PFE,Pfizer Inc.,45,Healthcare,289.21
+PF-IND-0108,HON,Honeywell International,286,Industrials,836.56
+PF-CON-0103,SBUX,Starbucks Corporation,53,Consumer Goods,49.13
+PF-CON-0104,PG,Procter & Gamble Co.,284,Consumer Goods,148.67
+PF-REA-0118,PLD,Prologis Inc.,402,Real Estate,493.4
+PF-CON-0105,COST,Costco Wholesale Corp.,7,Consumer Goods,444.85
+PF-CON-0106,COST,Costco Wholesale Corp.,399,Consumer Goods,136.2
+PF-UTI-0117,SRE,Sempra Energy,464,Utilities,1489.17
+PF-FIN-0092,AXP,American Express Company,293,Finance,786.45
+PF-MAT-0104,SHW,Sherwin-Williams Company,195,Materials,262.56
+PF-FIN-0093,CB,Chubb Limited,155,Finance,409.93
+PF-HEA-0094,ABT,Abbott Laboratories,33,Healthcare,259.14
+PF-ENE-0106,XOM,Exxon Mobil Corporation,216,Energy,456.63
+PF-COM-0092,CHTR,Charter Communications,40,Communication,548.08
+PF-FIN-0094,AXP,American Express Company,370,Finance,941.3
+PF-REA-0119,PLD,Prologis Inc.,316,Real Estate,301.37
+PF-TEC-0129,IBM,IBM Corporation,70,Technology,463.94
+PF-CON-0107,MCD,McDonald's Corporation,171,Consumer Goods,1264.0
+PF-CON-0108,WMT,Walmart Inc.,412,Consumer Goods,1294.68
+PF-IND-0109,BA,Boeing Company,172,Industrials,651.62
+PF-REA-0120,AVB,AvalonBay Communities,499,Real Estate,895.65
+PF-ENE-0107,SLB,SLB (Schlumberger),165,Energy,908.78
+PF-MAT-0105,ECL,Ecolab Inc.,103,Materials,723.72
+PF-HEA-0095,MDT,Medtronic Plc,494,Healthcare,603.38
+PF-ENE-0108,PXD,Pioneer Natural Resources,150,Energy,1104.96
+PF-REA-0121,DLR,Digital Realty Trust,252,Real Estate,1451.97
+PF-COM-0093,CHTR,Charter Communications,125,Communication,495.57
+PF-ENE-0109,XOM,Exxon Mobil Corporation,419,Energy,1180.94
+PF-CON-0109,KO,The Coca-Cola Company,59,Consumer Goods,1398.78
+PF-FIN-0095,JPM,JPMorgan Chase & Co.,304,Finance,1495.92
+PF-HEA-0096,BMY,Bristol-Myers Squibb,350,Healthcare,1153.75
+PF-TEC-0130,AMZN,Amazon.com Inc.,488,Technology,1093.55
+PF-MAT-0106,FCX,Freeport-McMoRan Inc.,108,Materials,663.3
+PF-ENE-0110,COP,ConocoPhillips,426,Energy,1042.32
+PF-COM-0094,FOX,Fox Corporation,435,Communication,1195.53
+PF-CON-0110,SBUX,Starbucks Corporation,345,Consumer Goods,753.96
+PF-REA-0122,DLR,Digital Realty Trust,156,Real Estate,370.61
+PF-REA-0123,EQR,Equity Residential,79,Real Estate,1075.7
+PF-COM-0095,TMUS,T-Mobile US Inc.,194,Communication,120.21
+PF-REA-0124,PLD,Prologis Inc.,246,Real Estate,877.54
+PF-UTI-0118,D,Dominion Energy Inc.,260,Utilities,1386.01
+PF-MAT-0107,ECL,Ecolab Inc.,215,Materials,820.03
+PF-COM-0096,TMUS,T-Mobile US Inc.,496,Communication,545.7
+PF-COM-0097,PARA,Paramount Global,275,Communication,894.79
+PF-TEC-0131,INTC,Intel Corporation,56,Technology,1155.74
+PF-REA-0125,EQR,Equity Residential,341,Real Estate,538.96
+PF-REA-0126,WELL,Welltower Inc.,314,Real Estate,76.0
+PF-REA-0127,WELL,Welltower Inc.,347,Real Estate,973.65
+PF-COM-0098,VZ,Verizon Communications,170,Communication,1448.92
+PF-IND-0110,CAT,Caterpillar Inc.,55,Industrials,25.72
+PF-FIN-0096,SPGI,S&P Global Inc.,114,Finance,770.91
+PF-UTI-0119,DUK,Duke Energy Corporation,286,Utilities,874.97
+PF-UTI-0120,WEC,WEC Energy Group,114,Utilities,674.21
+PF-CON-0111,MCD,McDonald's Corporation,238,Consumer Goods,1160.79
+PF-REA-0128,AMT,American Tower Corp.,354,Real Estate,755.69
+PF-ENE-0111,PSX,Phillips 66,13,Energy,729.33
+PF-ENE-0112,COP,ConocoPhillips,213,Energy,1381.62
+PF-TEC-0132,INTC,Intel Corporation,60,Technology,1248.66
+PF-MAT-0108,MLM,Martin Marietta Materials,73,Materials,529.01
+PF-ENE-0113,OXY,Occidental Petroleum,234,Energy,1178.56
+PF-UTI-0121,DUK,Duke Energy Corporation,248,Utilities,528.97
+PF-TEC-0133,CSCO,Cisco Systems Inc.,225,Technology,1085.77
+PF-IND-0111,HON,Honeywell International,164,Industrials,110.09
+PF-TEC-0134,META,Meta Platforms Inc.,415,Technology,1069.06
+PF-TEC-0135,GOOGL,Alphabet Inc.,435,Technology,521.19
+PF-TEC-0136,IBM,IBM Corporation,347,Technology,1202.07
+PF-MAT-0109,IP,International Paper Co.,125,Materials,778.83
+PF-UTI-0122,EXC,Exelon Corporation,82,Utilities,503.17
+PF-CON-0112,TGT,Target Corporation,491,Consumer Goods,698.46
+PF-COM-0099,WBD,Warner Bros. Discovery,208,Communication,948.34
+PF-HEA-0097,BMY,Bristol-Myers Squibb,328,Healthcare,989.39
+PF-CON-0113,MCD,McDonald's Corporation,15,Consumer Goods,1108.71
+PF-FIN-0097,JPM,JPMorgan Chase & Co.,231,Finance,892.38
+PF-CON-0114,COST,Costco Wholesale Corp.,3,Consumer Goods,1060.06
+PF-FIN-0098,BAC,Bank of America Corp.,143,Finance,1130.96
+PF-COM-0100,PARA,Paramount Global,408,Communication,103.22
+PF-TEC-0137,IBM,IBM Corporation,410,Technology,1309.25
+PF-HEA-0098,BMY,Bristol-Myers Squibb,188,Healthcare,495.72
+PF-IND-0112,UPS,United Parcel Service,59,Industrials,400.91
+PF-IND-0113,GE,General Electric Company,271,Industrials,1449.22
+PF-ENE-0114,PXD,Pioneer Natural Resources,306,Energy,589.07
+PF-CON-0115,MCD,McDonald's Corporation,301,Consumer Goods,180.21
+PF-CON-0116,PG,Procter & Gamble Co.,433,Consumer Goods,692.21
+PF-HEA-0099,MDT,Medtronic Plc,417,Healthcare,1013.65
+PF-COM-0101,WBD,Warner Bros. Discovery,153,Communication,1378.84
+PF-REA-0129,AMT,American Tower Corp.,44,Real Estate,1011.44
+PF-ENE-0115,PXD,Pioneer Natural Resources,61,Energy,365.47
+PF-TEC-0138,QCOM,Qualcomm Inc.,94,Technology,566.23
+PF-HEA-0100,ABT,Abbott Laboratories,262,Healthcare,588.81
+PF-REA-0130,PLD,Prologis Inc.,71,Real Estate,866.46
+PF-CON-0117,TGT,Target Corporation,96,Consumer Goods,735.14
+PF-UTI-0123,D,Dominion Energy Inc.,356,Utilities,1379.55
+PF-HEA-0101,MDT,Medtronic Plc,285,Healthcare,258.63
+PF-ENE-0116,CVX,Chevron Corporation,72,Energy,288.78
+PF-IND-0114,HON,Honeywell International,318,Industrials,89.88
+PF-CON-0118,PG,Procter & Gamble Co.,488,Consumer Goods,24.28
+PF-HEA-0102,UNH,UnitedHealth Group,100,Healthcare,1224.67
+PF-UTI-0124,SRE,Sempra Energy,259,Utilities,983.07
+PF-CON-0119,SBUX,Starbucks Corporation,351,Consumer Goods,742.67
+PF-MAT-0110,FCX,Freeport-McMoRan Inc.,431,Materials,671.34
+PF-HEA-0103,TMO,Thermo Fisher Scientific,43,Healthcare,852.44
+PF-COM-0102,TMUS,T-Mobile US Inc.,390,Communication,338.59
+PF-TEC-0139,NVDA,NVIDIA Corporation,141,Technology,345.02
+PF-ENE-0117,CVX,Chevron Corporation,87,Energy,1173.3
+PF-UTI-0125,PCG,PG&E Corporation,381,Utilities,1161.1
+PF-IND-0115,MMM,3M Company,282,Industrials,771.1
+PF-UTI-0126,WEC,WEC Energy Group,59,Utilities,409.15
+PF-UTI-0127,AEP,American Electric Power,422,Utilities,1486.43
+PF-UTI-0128,AEP,American Electric Power,422,Utilities,1137.61
+PF-COM-0103,CMCSA,Comcast Corporation,369,Communication,667.64
+PF-FIN-0099,WFC,Wells Fargo & Company,218,Finance,162.6
+PF-REA-0131,AVB,AvalonBay Communities,385,Real Estate,378.82
+PF-TEC-0140,NVDA,NVIDIA Corporation,231,Technology,401.59
+PF-COM-0104,FOX,Fox Corporation,45,Communication,664.21
+PF-HEA-0104,JNJ,Johnson & Johnson,398,Healthcare,1219.71
+PF-FIN-0100,BAC,Bank of America Corp.,416,Finance,1109.04
+PF-MAT-0111,ECL,Ecolab Inc.,180,Materials,1292.96
+PF-REA-0132,EQIX,Equinix Inc.,324,Real Estate,647.97
+PF-REA-0133,EQIX,Equinix Inc.,72,Real Estate,1179.43
+PF-COM-0105,FOX,Fox Corporation,106,Communication,1210.11
+PF-UTI-0129,PCG,PG&E Corporation,180,Utilities,803.1
+PF-REA-0134,PLD,Prologis Inc.,276,Real Estate,260.88
+PF-MAT-0112,FCX,Freeport-McMoRan Inc.,150,Materials,441.11
+PF-FIN-0101,CB,Chubb Limited,488,Finance,1288.45
+PF-MAT-0113,APD,Air Products & Chemicals,418,Materials,151.89
+PF-COM-0106,VZ,Verizon Communications,403,Communication,623.28
+PF-TEC-0141,ORCL,Oracle Corporation,142,Technology,1301.9
+PF-HEA-0105,PFE,Pfizer Inc.,360,Healthcare,1300.46
+PF-FIN-0102,AXP,American Express Company,75,Finance,1069.98
+PF-FIN-0103,AXP,American Express Company,390,Finance,1266.9
+PF-CON-0120,MCD,McDonald's Corporation,251,Consumer Goods,221.84
+PF-REA-0135,O,Realty Income Corporation,138,Real Estate,945.44
+PF-CON-0121,WMT,Walmart Inc.,232,Consumer Goods,122.52
+PF-COM-0107,TMUS,T-Mobile US Inc.,451,Communication,1155.64
+PF-CON-0122,NKE,NIKE Inc.,264,Consumer Goods,1127.21
+PF-MAT-0114,ECL,Ecolab Inc.,480,Materials,1317.2
+PF-IND-0116,UPS,United Parcel Service,487,Industrials,737.19
+PF-UTI-0130,ES,Eversource Energy,2,Utilities,1304.67
+PF-MAT-0115,MLM,Martin Marietta Materials,48,Materials,1099.09
+PF-IND-0117,UPS,United Parcel Service,326,Industrials,999.57
+PF-CON-0123,PG,Procter & Gamble Co.,436,Consumer Goods,104.36
+PF-UTI-0131,D,Dominion Energy Inc.,204,Utilities,334.57
+PF-CON-0124,TGT,Target Corporation,423,Consumer Goods,325.66
+PF-FIN-0104,CB,Chubb Limited,166,Finance,1244.23
+PF-ENE-0118,OXY,Occidental Petroleum,281,Energy,871.12
+PF-UTI-0132,PCG,PG&E Corporation,437,Utilities,733.15
+PF-ENE-0119,OXY,Occidental Petroleum,458,Energy,1027.0
+PF-TEC-0142,TSLA,Tesla Inc.,24,Technology,158.37
+PF-COM-0108,CHTR,Charter Communications,429,Communication,694.78
+PF-HEA-0106,JNJ,Johnson & Johnson,476,Healthcare,1287.9
+PF-IND-0118,BA,Boeing Company,234,Industrials,11.01
+PF-CON-0125,TGT,Target Corporation,104,Consumer Goods,1493.58
+PF-HEA-0107,PFE,Pfizer Inc.,452,Healthcare,978.5
+PF-HEA-0108,LLY,Eli Lilly and Company,448,Healthcare,1399.76
+PF-ENE-0120,XOM,Exxon Mobil Corporation,48,Energy,985.34
+PF-FIN-0105,BLK,BlackRock Inc.,43,Finance,564.05
+PF-REA-0136,AVB,AvalonBay Communities,85,Real Estate,87.16
+PF-REA-0137,O,Realty Income Corporation,157,Real Estate,1091.72
+PF-COM-0109,VZ,Verizon Communications,120,Communication,649.55
+PF-TEC-0143,AMD,Advanced Micro Devices,361,Technology,151.82
+PF-FIN-0106,WFC,Wells Fargo & Company,245,Finance,126.13
+PF-REA-0138,AMT,American Tower Corp.,116,Real Estate,783.97
+PF-IND-0119,BA,Boeing Company,5,Industrials,22.01
+PF-ENE-0121,OXY,Occidental Petroleum,419,Energy,189.68
+PF-CON-0126,TGT,Target Corporation,356,Consumer Goods,206.94
+PF-TEC-0144,ADBE,Adobe Inc.,118,Technology,580.77
+PF-MAT-0116,MLM,Martin Marietta Materials,413,Materials,162.62
+PF-ENE-0122,PXD,Pioneer Natural Resources,189,Energy,1322.67
+PF-HEA-0109,UNH,UnitedHealth Group,196,Healthcare,1162.46
+PF-COM-0110,VZ,Verizon Communications,448,Communication,208.39
+PF-MAT-0117,APD,Air Products & Chemicals,74,Materials,111.93
+PF-UTI-0133,PCG,PG&E Corporation,5,Utilities,919.38
+PF-HEA-0110,TMO,Thermo Fisher Scientific,226,Healthcare,533.27
+PF-FIN-0107,WFC,Wells Fargo & Company,322,Finance,1124.92
+PF-CON-0127,SBUX,Starbucks Corporation,316,Consumer Goods,1032.98
+PF-FIN-0108,WFC,Wells Fargo & Company,45,Finance,1345.92
+PF-HEA-0111,UNH,UnitedHealth Group,386,Healthcare,193.5
+PF-MAT-0118,MLM,Martin Marietta Materials,197,Materials,533.79
+PF-CON-0128,TGT,Target Corporation,162,Consumer Goods,1188.7
+PF-FIN-0109,AXP,American Express Company,142,Finance,970.48
+PF-FIN-0110,AXP,American Express Company,284,Finance,905.49
+PF-MAT-0119,VMC,Vulcan Materials Company,312,Materials,434.53
+PF-MAT-0120,ECL,Ecolab Inc.,14,Materials,1273.36
+PF-REA-0139,EQR,Equity Residential,449,Real Estate,459.46
+PF-UTI-0134,DUK,Duke Energy Corporation,311,Utilities,769.19
+PF-COM-0111,T,AT&T Inc.,201,Communication,450.36
+PF-TEC-0145,TSLA,Tesla Inc.,402,Technology,1347.89
+PF-FIN-0111,C,Citigroup Inc.,254,Finance,584.97
+PF-FIN-0112,C,Citigroup Inc.,256,Finance,960.74
+PF-TEC-0146,ADBE,Adobe Inc.,271,Technology,1334.2
+PF-TEC-0147,MSFT,Microsoft Corporation,185,Technology,1401.55
+PF-HEA-0112,PFE,Pfizer Inc.,199,Healthcare,1292.61
+PF-UTI-0135,PCG,PG&E Corporation,216,Utilities,554.46
+PF-MAT-0121,SHW,Sherwin-Williams Company,89,Materials,1146.46
+PF-COM-0112,NFLX,Netflix Inc.,38,Communication,34.87
+PF-TEC-0148,CRM,Salesforce Inc.,8,Technology,400.66
+PF-TEC-0149,META,Meta Platforms Inc.,473,Technology,100.1
+PF-COM-0113,TMUS,T-Mobile US Inc.,204,Communication,764.85
+PF-REA-0140,O,Realty Income Corporation,365,Real Estate,756.56
+PF-CON-0129,HD,The Home Depot Inc.,217,Consumer Goods,1055.7
+PF-TEC-0150,INTC,Intel Corporation,328,Technology,809.48
+PF-REA-0141,EQIX,Equinix Inc.,79,Real Estate,423.43
+PF-ENE-0123,EOG,EOG Resources Inc.,41,Energy,771.84
+PF-FIN-0113,BAC,Bank of America Corp.,499,Finance,1214.01
+PF-UTI-0136,D,Dominion Energy Inc.,168,Utilities,592.19
+PF-REA-0142,DLR,Digital Realty Trust,391,Real Estate,1253.44
+PF-MAT-0122,SHW,Sherwin-Williams Company,330,Materials,108.51
+PF-MAT-0123,NEM,Newmont Corporation,224,Materials,1097.64
+PF-FIN-0114,C,Citigroup Inc.,30,Finance,374.27
+PF-IND-0120,CAT,Caterpillar Inc.,60,Industrials,685.52
+PF-REA-0143,CCI,Crown Castle Inc.,29,Real Estate,470.84
+PF-MAT-0124,IP,International Paper Co.,337,Materials,1113.58
+PF-HEA-0113,JNJ,Johnson & Johnson,7,Healthcare,1064.77
+PF-MAT-0125,NEM,Newmont Corporation,6,Materials,254.11
+PF-ENE-0124,PSX,Phillips 66,268,Energy,780.66
+PF-MAT-0126,VMC,Vulcan Materials Company,133,Materials,258.77
+PF-HEA-0114,PFE,Pfizer Inc.,384,Healthcare,1173.87
+PF-FIN-0115,CB,Chubb Limited,376,Finance,1330.76
+PF-COM-0114,NFLX,Netflix Inc.,461,Communication,53.74
+PF-COM-0115,PARA,Paramount Global,220,Communication,415.25
+PF-TEC-0151,CRM,Salesforce Inc.,135,Technology,1071.36
+PF-UTI-0137,WEC,WEC Energy Group,322,Utilities,124.83
+PF-IND-0121,UPS,United Parcel Service,262,Industrials,546.58
+PF-IND-0122,MMM,3M Company,440,Industrials,854.66
+PF-CON-0130,PEP,PepsiCo Inc.,81,Consumer Goods,390.12
+PF-TEC-0152,IBM,IBM Corporation,458,Technology,865.13
+PF-MAT-0127,VMC,Vulcan Materials Company,60,Materials,350.32
+PF-UTI-0138,NEE,NextEra Energy Inc.,2,Utilities,75.62
+PF-TEC-0153,MSFT,Microsoft Corporation,126,Technology,78.51
+PF-CON-0131,KO,The Coca-Cola Company,197,Consumer Goods,1381.14
+PF-HEA-0115,MDT,Medtronic Plc,477,Healthcare,1440.91
+PF-TEC-0154,NVDA,NVIDIA Corporation,284,Technology,1206.64
+PF-MAT-0128,NUE,Nucor Corporation,380,Materials,987.0
+PF-FIN-0116,GS,Goldman Sachs Group,165,Finance,379.91
+PF-MAT-0129,VMC,Vulcan Materials Company,164,Materials,414.17
+PF-TEC-0155,ADBE,Adobe Inc.,293,Technology,565.48
+PF-IND-0123,FDX,FedEx Corporation,345,Industrials,1353.89
+PF-HEA-0116,MDT,Medtronic Plc,115,Healthcare,1208.46
+PF-TEC-0156,META,Meta Platforms Inc.,489,Technology,607.38
+PF-IND-0124,LMT,Lockheed Martin Corp.,444,Industrials,430.64
+PF-ENE-0125,EOG,EOG Resources Inc.,168,Energy,138.71
+PF-IND-0125,UPS,United Parcel Service,5,Industrials,559.69
+PF-ENE-0126,COP,ConocoPhillips,289,Energy,1178.92
+PF-MAT-0130,IP,International Paper Co.,319,Materials,371.45
+PF-CON-0132,PEP,PepsiCo Inc.,303,Consumer Goods,1458.07
+PF-COM-0116,NFLX,Netflix Inc.,398,Communication,301.18
+PF-UTI-0139,AEP,American Electric Power,390,Utilities,1196.0
+PF-HEA-0117,MRK,Merck & Co. Inc.,4,Healthcare,1399.27
+PF-TEC-0157,AMZN,Amazon.com Inc.,120,Technology,816.9
+PF-REA-0144,DLR,Digital Realty Trust,430,Real Estate,1043.26
+PF-TEC-0158,MSFT,Microsoft Corporation,487,Technology,509.18
+PF-COM-0117,CMCSA,Comcast Corporation,337,Communication,570.65
+PF-MAT-0131,IP,International Paper Co.,373,Materials,468.19
+PF-FIN-0117,BAC,Bank of America Corp.,272,Finance,1474.84
+PF-CON-0133,HD,The Home Depot Inc.,252,Consumer Goods,1442.17
+PF-HEA-0118,ABT,Abbott Laboratories,365,Healthcare,426.94
+PF-TEC-0159,META,Meta Platforms Inc.,472,Technology,354.89
+PF-UTI-0140,DUK,Duke Energy Corporation,212,Utilities,1054.26
+PF-CON-0134,PEP,PepsiCo Inc.,235,Consumer Goods,1462.09
+PF-TEC-0160,INTC,Intel Corporation,298,Technology,152.41
+PF-HEA-0119,UNH,UnitedHealth Group,327,Healthcare,1231.74
+PF-TEC-0161,ADBE,Adobe Inc.,304,Technology,856.05
+PF-IND-0126,CAT,Caterpillar Inc.,340,Industrials,1446.69
+PF-FIN-0118,C,Citigroup Inc.,150,Finance,398.88
+PF-ENE-0127,PXD,Pioneer Natural Resources,475,Energy,1203.22
+PF-MAT-0132,NEM,Newmont Corporation,426,Materials,1105.68
+PF-ENE-0128,PXD,Pioneer Natural Resources,232,Energy,415.21
+PF-TEC-0162,ADBE,Adobe Inc.,484,Technology,312.04
+PF-COM-0118,DIS,The Walt Disney Company,395,Communication,881.21
+PF-HEA-0120,MRK,Merck & Co. Inc.,55,Healthcare,254.92
+PF-IND-0127,LMT,Lockheed Martin Corp.,161,Industrials,615.7
+PF-UTI-0141,D,Dominion Energy Inc.,184,Utilities,1447.31
+PF-FIN-0119,BAC,Bank of America Corp.,232,Finance,469.38
+PF-FIN-0120,SPGI,S&P Global Inc.,437,Finance,188.67
+PF-HEA-0121,LLY,Eli Lilly and Company,414,Healthcare,1032.22
+PF-MAT-0133,FCX,Freeport-McMoRan Inc.,357,Materials,908.92
+PF-FIN-0121,WFC,Wells Fargo & Company,428,Finance,1286.29
+PF-HEA-0122,ABT,Abbott Laboratories,47,Healthcare,1069.62
+PF-CON-0135,PG,Procter & Gamble Co.,203,Consumer Goods,775.05
+PF-MAT-0134,APD,Air Products & Chemicals,154,Materials,397.65
+PF-HEA-0123,MDT,Medtronic Plc,16,Healthcare,1428.62
+PF-IND-0128,HON,Honeywell International,285,Industrials,1124.64
+PF-FIN-0122,AXP,American Express Company,49,Finance,698.44
+PF-COM-0119,WBD,Warner Bros. Discovery,407,Communication,218.29
+PF-TEC-0163,MSFT,Microsoft Corporation,32,Technology,1247.25
+PF-FIN-0123,GS,Goldman Sachs Group,67,Finance,305.22
+PF-CON-0136,NKE,NIKE Inc.,191,Consumer Goods,1032.57
+PF-REA-0145,WELL,Welltower Inc.,44,Real Estate,877.66
+PF-FIN-0124,SPGI,S&P Global Inc.,470,Finance,1220.99
+PF-TEC-0164,GOOGL,Alphabet Inc.,34,Technology,304.65
+PF-REA-0146,WELL,Welltower Inc.,228,Real Estate,1215.86
+PF-TEC-0165,AMD,Advanced Micro Devices,464,Technology,1272.44
+PF-COM-0120,PARA,Paramount Global,170,Communication,192.57
+PF-IND-0129,LMT,Lockheed Martin Corp.,26,Industrials,260.3
+PF-UTI-0142,WEC,WEC Energy Group,222,Utilities,1234.31
+PF-CON-0137,MCD,McDonald's Corporation,255,Consumer Goods,53.93
+PF-MAT-0135,SHW,Sherwin-Williams Company,219,Materials,267.48
+PF-FIN-0125,WFC,Wells Fargo & Company,466,Finance,288.86
+PF-ENE-0129,XOM,Exxon Mobil Corporation,229,Energy,1326.3
+PF-TEC-0166,NVDA,NVIDIA Corporation,315,Technology,932.57
+PF-FIN-0126,AXP,American Express Company,332,Finance,449.71
+PF-CON-0138,SBUX,Starbucks Corporation,452,Consumer Goods,830.53
+PF-TEC-0167,ORCL,Oracle Corporation,45,Technology,426.87
+PF-HEA-0124,UNH,UnitedHealth Group,215,Healthcare,307.19
+PF-COM-0121,WBD,Warner Bros. Discovery,270,Communication,381.23
+PF-COM-0122,WBD,Warner Bros. Discovery,279,Communication,1194.32
+PF-CON-0139,WMT,Walmart Inc.,401,Consumer Goods,1072.92
+PF-IND-0130,DE,Deere & Company,279,Industrials,1174.34
+PF-ENE-0130,PSX,Phillips 66,468,Energy,852.82
+PF-ENE-0131,MPC,Marathon Petroleum Corp.,199,Energy,412.95
+PF-TEC-0168,AMZN,Amazon.com Inc.,164,Technology,899.7
+PF-TEC-0169,AMZN,Amazon.com Inc.,459,Technology,1217.93
+PF-ENE-0132,XOM,Exxon Mobil Corporation,30,Energy,1214.89
+PF-IND-0131,RTX,Raytheon Technologies,272,Industrials,542.58
+PF-UTI-0143,ES,Eversource Energy,120,Utilities,1461.23
+PF-TEC-0170,CSCO,Cisco Systems Inc.,127,Technology,988.73
+PF-FIN-0127,CB,Chubb Limited,274,Finance,1226.26
+PF-MAT-0136,IP,International Paper Co.,29,Materials,1148.43
+PF-FIN-0128,GS,Goldman Sachs Group,295,Finance,1271.29
+PF-COM-0123,WBD,Warner Bros. Discovery,199,Communication,538.66
+PF-HEA-0125,MDT,Medtronic Plc,91,Healthcare,362.46
+PF-ENE-0133,PXD,Pioneer Natural Resources,413,Energy,1109.78
+PF-CON-0140,PG,Procter & Gamble Co.,468,Consumer Goods,891.43
+PF-MAT-0137,FCX,Freeport-McMoRan Inc.,359,Materials,534.01
+PF-UTI-0144,PCG,PG&E Corporation,289,Utilities,221.73
+PF-HEA-0126,AMGN,Amgen Inc.,429,Healthcare,1482.13
+PF-IND-0132,MMM,3M Company,278,Industrials,470.49
+PF-IND-0133,GE,General Electric Company,20,Industrials,144.48
+PF-FIN-0129,MS,Morgan Stanley,309,Finance,336.03
+PF-UTI-0145,SO,Southern Company,245,Utilities,11.02
+PF-REA-0147,EQIX,Equinix Inc.,104,Real Estate,1211.6
+PF-ENE-0134,OXY,Occidental Petroleum,368,Energy,274.42
+PF-COM-0124,WBD,Warner Bros. Discovery,433,Communication,1303.64
+PF-TEC-0171,ORCL,Oracle Corporation,12,Technology,230.09
+PF-MAT-0138,FCX,Freeport-McMoRan Inc.,470,Materials,221.06
+PF-TEC-0172,QCOM,Qualcomm Inc.,434,Technology,794.18
+PF-CON-0141,KO,The Coca-Cola Company,492,Consumer Goods,118.07
+PF-MAT-0139,FCX,Freeport-McMoRan Inc.,483,Materials,996.59
+PF-REA-0148,AMT,American Tower Corp.,52,Real Estate,511.48
+PF-ENE-0135,MPC,Marathon Petroleum Corp.,70,Energy,1464.03
+PF-MAT-0140,MLM,Martin Marietta Materials,486,Materials,660.93
+PF-REA-0149,DLR,Digital Realty Trust,492,Real Estate,735.93
+PF-ENE-0136,PXD,Pioneer Natural Resources,90,Energy,1063.7
+PF-UTI-0146,SRE,Sempra Energy,356,Utilities,1335.5
+PF-REA-0150,EQIX,Equinix Inc.,403,Real Estate,541.67
+PF-MAT-0141,LIN,Linde Plc,302,Materials,1223.54
+PF-CON-0142,WMT,Walmart Inc.,158,Consumer Goods,1103.65
+PF-ENE-0137,COP,ConocoPhillips,66,Energy,274.79
+PF-TEC-0173,AAPL,Apple Inc.,486,Technology,1055.99
+PF-UTI-0147,WEC,WEC Energy Group,201,Utilities,1277.63
+PF-COM-0125,NFLX,Netflix Inc.,495,Communication,855.55
+PF-HEA-0127,BMY,Bristol-Myers Squibb,309,Healthcare,484.14
+PF-COM-0126,PARA,Paramount Global,496,Communication,920.96
+PF-REA-0151,DLR,Digital Realty Trust,290,Real Estate,165.12
+PF-IND-0134,MMM,3M Company,73,Industrials,503.44
+PF-TEC-0174,ADBE,Adobe Inc.,122,Technology,526.75
+PF-ENE-0138,PXD,Pioneer Natural Resources,86,Energy,957.92
+PF-TEC-0175,AMD,Advanced Micro Devices,421,Technology,1066.36
+PF-REA-0152,DLR,Digital Realty Trust,374,Real Estate,1331.11
+PF-IND-0135,HON,Honeywell International,6,Industrials,405.17
+PF-FIN-0130,AXP,American Express Company,355,Finance,111.01
+PF-FIN-0131,BLK,BlackRock Inc.,403,Finance,170.97
+PF-TEC-0176,AAPL,Apple Inc.,25,Technology,585.05
+PF-MAT-0142,MLM,Martin Marietta Materials,215,Materials,1453.96
+PF-CON-0143,SBUX,Starbucks Corporation,253,Consumer Goods,1323.84
+PF-ENE-0139,PSX,Phillips 66,280,Energy,569.27
+PF-IND-0136,DE,Deere & Company,404,Industrials,1297.44
+PF-REA-0153,AVB,AvalonBay Communities,389,Real Estate,1033.87
+PF-HEA-0128,LLY,Eli Lilly and Company,232,Healthcare,119.83
+PF-TEC-0177,NVDA,NVIDIA Corporation,151,Technology,39.92
+PF-FIN-0132,SPGI,S&P Global Inc.,488,Finance,166.04
+PF-ENE-0140,OXY,Occidental Petroleum,88,Energy,1333.02
+PF-HEA-0129,LLY,Eli Lilly and Company,375,Healthcare,121.75
+PF-TEC-0178,AMD,Advanced Micro Devices,174,Technology,895.11
+PF-REA-0154,EQIX,Equinix Inc.,458,Real Estate,729.28
+PF-TEC-0179,AMZN,Amazon.com Inc.,221,Technology,1414.24
+PF-HEA-0130,TMO,Thermo Fisher Scientific,311,Healthcare,1335.73
+PF-HEA-0131,LLY,Eli Lilly and Company,28,Healthcare,160.87
+PF-FIN-0133,BAC,Bank of America Corp.,499,Finance,293.08
+PF-MAT-0143,NEM,Newmont Corporation,284,Materials,1085.84
+PF-MAT-0144,MLM,Martin Marietta Materials,277,Materials,405.24
+PF-ENE-0141,CVX,Chevron Corporation,153,Energy,363.95
+PF-TEC-0180,TSLA,Tesla Inc.,202,Technology,861.94
+PF-IND-0137,GE,General Electric Company,79,Industrials,91.21
+PF-TEC-0181,AAPL,Apple Inc.,219,Technology,140.57
+PF-REA-0155,EQR,Equity Residential,321,Real Estate,904.32
+PF-FIN-0134,JPM,JPMorgan Chase & Co.,50,Finance,48.35
+PF-HEA-0132,TMO,Thermo Fisher Scientific,327,Healthcare,444.8
+PF-TEC-0182,INTC,Intel Corporation,243,Technology,1267.22
+PF-ENE-0142,EOG,EOG Resources Inc.,402,Energy,602.23
+PF-IND-0138,GE,General Electric Company,459,Industrials,994.95
+PF-TEC-0183,AMD,Advanced Micro Devices,329,Technology,820.75
+PF-HEA-0133,BMY,Bristol-Myers Squibb,190,Healthcare,1329.38
+PF-CON-0144,PEP,PepsiCo Inc.,96,Consumer Goods,674.21
+PF-FIN-0135,SPGI,S&P Global Inc.,226,Finance,702.94
+PF-FIN-0136,GS,Goldman Sachs Group,429,Finance,410.16
+PF-TEC-0184,ORCL,Oracle Corporation,78,Technology,1130.83
+PF-MAT-0145,LIN,Linde Plc,50,Materials,137.7
+PF-ENE-0143,PSX,Phillips 66,414,Energy,816.76
+PF-COM-0127,VZ,Verizon Communications,302,Communication,348.99
+PF-TEC-0185,ORCL,Oracle Corporation,431,Technology,586.79
+PF-UTI-0148,DUK,Duke Energy Corporation,215,Utilities,1448.79
+PF-MAT-0146,SHW,Sherwin-Williams Company,444,Materials,1405.18
+PF-UTI-0149,WEC,WEC Energy Group,452,Utilities,361.11
+PF-ENE-0144,SLB,SLB (Schlumberger),41,Energy,598.26
+PF-MAT-0147,NUE,Nucor Corporation,18,Materials,758.13
+PF-UTI-0150,DUK,Duke Energy Corporation,410,Utilities,861.51
+PF-REA-0156,SPG,Simon Property Group,76,Real Estate,189.22
+PF-COM-0128,VZ,Verizon Communications,230,Communication,267.59
+PF-HEA-0134,TMO,Thermo Fisher Scientific,498,Healthcare,325.72
+PF-HEA-0135,AMGN,Amgen Inc.,65,Healthcare,73.59
+PF-TEC-0186,INTC,Intel Corporation,350,Technology,658.74
+PF-REA-0157,O,Realty Income Corporation,76,Real Estate,1252.82
+PF-FIN-0137,SPGI,S&P Global Inc.,164,Finance,1367.1
+PF-COM-0129,PARA,Paramount Global,35,Communication,139.67
+PF-UTI-0151,SRE,Sempra Energy,204,Utilities,832.56
+PF-ENE-0145,XOM,Exxon Mobil Corporation,267,Energy,692.65
+PF-TEC-0187,MSFT,Microsoft Corporation,403,Technology,1053.61
+PF-REA-0158,AMT,American Tower Corp.,268,Real Estate,1174.71
+PF-TEC-0188,QCOM,Qualcomm Inc.,213,Technology,232.97
+PF-UTI-0152,PCG,PG&E Corporation,302,Utilities,878.19
+PF-TEC-0189,CSCO,Cisco Systems Inc.,474,Technology,167.4
+PF-COM-0130,DIS,The Walt Disney Company,52,Communication,1180.76
+PF-UTI-0153,D,Dominion Energy Inc.,451,Utilities,522.37
+PF-CON-0145,SBUX,Starbucks Corporation,136,Consumer Goods,580.73
+PF-IND-0139,GE,General Electric Company,293,Industrials,917.35
+PF-TEC-0190,NVDA,NVIDIA Corporation,89,Technology,420.37
+PF-HEA-0136,ABT,Abbott Laboratories,317,Healthcare,916.9
+PF-MAT-0148,ECL,Ecolab Inc.,206,Materials,67.79
+PF-ENE-0146,VLO,Valero Energy Corporation,354,Energy,363.99
+PF-COM-0131,T,AT&T Inc.,244,Communication,1382.04
+PF-CON-0146,PEP,PepsiCo Inc.,11,Consumer Goods,513.42
+PF-COM-0132,TMUS,T-Mobile US Inc.,156,Communication,473.31
+PF-IND-0140,GE,General Electric Company,440,Industrials,1047.31
+PF-TEC-0191,CSCO,Cisco Systems Inc.,498,Technology,1304.66
+PF-HEA-0137,UNH,UnitedHealth Group,154,Healthcare,1461.59
+PF-IND-0141,BA,Boeing Company,397,Industrials,1240.48
+PF-FIN-0138,CB,Chubb Limited,374,Finance,630.99
+PF-REA-0159,WELL,Welltower Inc.,46,Real Estate,290.02
+PF-FIN-0139,WFC,Wells Fargo & Company,468,Finance,1237.71
+PF-MAT-0149,IP,International Paper Co.,249,Materials,1141.65
+PF-CON-0147,PEP,PepsiCo Inc.,421,Consumer Goods,93.75
+PF-COM-0133,TMUS,T-Mobile US Inc.,82,Communication,107.77
+PF-MAT-0150,FCX,Freeport-McMoRan Inc.,260,Materials,611.04
+PF-COM-0134,DIS,The Walt Disney Company,436,Communication,791.19
+PF-UTI-0154,PCG,PG&E Corporation,15,Utilities,268.87
+PF-FIN-0140,JPM,JPMorgan Chase & Co.,429,Finance,95.86
+PF-TEC-0192,NVDA,NVIDIA Corporation,234,Technology,85.33
+PF-CON-0148,KO,The Coca-Cola Company,361,Consumer Goods,306.67
+PF-CON-0149,PEP,PepsiCo Inc.,422,Consumer Goods,701.69
+PF-CON-0150,MCD,McDonald's Corporation,326,Consumer Goods,1385.38
+PF-MAT-0151,SHW,Sherwin-Williams Company,16,Materials,370.49
+PF-IND-0142,GE,General Electric Company,305,Industrials,674.69
+PF-IND-0143,RTX,Raytheon Technologies,301,Industrials,831.49
+PF-ENE-0147,PSX,Phillips 66,84,Energy,1258.1
+PF-FIN-0141,SPGI,S&P Global Inc.,384,Finance,1248.0
+PF-TEC-0193,AMD,Advanced Micro Devices,146,Technology,50.9
+PF-TEC-0194,TSLA,Tesla Inc.,84,Technology,1282.19
+PF-COM-0135,DIS,The Walt Disney Company,495,Communication,329.33
+PF-FIN-0142,GS,Goldman Sachs Group,332,Finance,345.42
+PF-FIN-0143,BAC,Bank of America Corp.,138,Finance,980.87
+PF-UTI-0155,NEE,NextEra Energy Inc.,11,Utilities,1298.3
+PF-COM-0136,NFLX,Netflix Inc.,350,Communication,23.26
+PF-HEA-0138,PFE,Pfizer Inc.,332,Healthcare,268.07
+PF-COM-0137,WBD,Warner Bros. Discovery,5,Communication,343.42
+PF-REA-0160,CCI,Crown Castle Inc.,413,Real Estate,1415.08
+PF-MAT-0152,NUE,Nucor Corporation,496,Materials,1066.96
+PF-ENE-0148,XOM,Exxon Mobil Corporation,217,Energy,1344.27
+PF-ENE-0149,PSX,Phillips 66,236,Energy,385.48
+PF-IND-0144,LMT,Lockheed Martin Corp.,155,Industrials,1019.02
+PF-REA-0161,SPG,Simon Property Group,204,Real Estate,880.89
+PF-TEC-0195,AAPL,Apple Inc.,262,Technology,1499.15
+PF-CON-0151,PEP,PepsiCo Inc.,288,Consumer Goods,974.54
+PF-REA-0162,CCI,Crown Castle Inc.,145,Real Estate,454.73
+PF-TEC-0196,IBM,IBM Corporation,247,Technology,105.12
+PF-ENE-0150,XOM,Exxon Mobil Corporation,328,Energy,494.45
+PF-ENE-0151,XOM,Exxon Mobil Corporation,134,Energy,987.62
+PF-REA-0163,AVB,AvalonBay Communities,153,Real Estate,290.66
+PF-UTI-0156,DUK,Duke Energy Corporation,392,Utilities,368.05
+PF-TEC-0197,ORCL,Oracle Corporation,413,Technology,1287.4
+PF-COM-0138,PARA,Paramount Global,308,Communication,612.11
+PF-ENE-0152,PXD,Pioneer Natural Resources,349,Energy,218.49
+PF-TEC-0198,AMZN,Amazon.com Inc.,336,Technology,751.09
+PF-ENE-0153,COP,ConocoPhillips,133,Energy,1361.3
+PF-CON-0152,NKE,NIKE Inc.,199,Consumer Goods,1107.73
+PF-UTI-0157,ES,Eversource Energy,363,Utilities,1492.18
+PF-COM-0139,FOX,Fox Corporation,98,Communication,521.32
+PF-MAT-0153,NUE,Nucor Corporation,114,Materials,1032.61
+PF-REA-0164,DLR,Digital Realty Trust,402,Real Estate,718.85
+PF-MAT-0154,LIN,Linde Plc,184,Materials,765.9
+PF-HEA-0139,TMO,Thermo Fisher Scientific,431,Healthcare,989.85
+PF-UTI-0158,SRE,Sempra Energy,93,Utilities,447.74
+PF-IND-0145,RTX,Raytheon Technologies,66,Industrials,1113.97
+PF-MAT-0155,VMC,Vulcan Materials Company,414,Materials,842.96
+PF-HEA-0140,BMY,Bristol-Myers Squibb,485,Healthcare,1022.77
+PF-ENE-0154,VLO,Valero Energy Corporation,336,Energy,143.06
+PF-CON-0153,PG,Procter & Gamble Co.,115,Consumer Goods,1118.87
+PF-ENE-0155,EOG,EOG Resources Inc.,216,Energy,1184.25
+PF-ENE-0156,VLO,Valero Energy Corporation,191,Energy,398.23
+PF-ENE-0157,COP,ConocoPhillips,238,Energy,1278.31
+PF-IND-0146,RTX,Raytheon Technologies,28,Industrials,1300.93
+PF-UTI-0159,ES,Eversource Energy,298,Utilities,1417.01
+PF-TEC-0199,ADBE,Adobe Inc.,242,Technology,1335.24
+PF-IND-0147,FDX,FedEx Corporation,62,Industrials,1302.57
+PF-CON-0154,WMT,Walmart Inc.,272,Consumer Goods,454.55
+PF-TEC-0200,TSLA,Tesla Inc.,446,Technology,1282.82
+PF-HEA-0141,UNH,UnitedHealth Group,103,Healthcare,520.58
+PF-UTI-0160,PCG,PG&E Corporation,458,Utilities,1360.87
+PF-IND-0148,UPS,United Parcel Service,74,Industrials,481.41
+PF-MAT-0156,NUE,Nucor Corporation,93,Materials,1170.62
+PF-IND-0149,GE,General Electric Company,171,Industrials,950.24
+PF-HEA-0142,MDT,Medtronic Plc,161,Healthcare,955.4
+PF-TEC-0201,AAPL,Apple Inc.,232,Technology,417.56
+PF-COM-0140,CMCSA,Comcast Corporation,397,Communication,261.22
+PF-COM-0141,CMCSA,Comcast Corporation,82,Communication,739.47
+PF-COM-0142,CMCSA,Comcast Corporation,400,Communication,141.18
+PF-REA-0165,EQIX,Equinix Inc.,223,Real Estate,953.9
+PF-CON-0155,NKE,NIKE Inc.,220,Consumer Goods,1448.34
+PF-CON-0156,COST,Costco Wholesale Corp.,3,Consumer Goods,66.21
+PF-FIN-0144,JPM,JPMorgan Chase & Co.,375,Finance,565.92
+PF-TEC-0202,MSFT,Microsoft Corporation,457,Technology,490.1
+PF-UTI-0161,SO,Southern Company,98,Utilities,36.7
+PF-TEC-0203,AAPL,Apple Inc.,321,Technology,1103.07
+PF-FIN-0145,GS,Goldman Sachs Group,356,Finance,1316.71
+PF-ENE-0158,EOG,EOG Resources Inc.,67,Energy,163.04
+PF-IND-0150,FDX,FedEx Corporation,302,Industrials,466.11
+PF-TEC-0204,CRM,Salesforce Inc.,422,Technology,78.12
+PF-ENE-0159,COP,ConocoPhillips,234,Energy,1094.47
+PF-REA-0166,PLD,Prologis Inc.,269,Real Estate,513.37
+PF-MAT-0157,SHW,Sherwin-Williams Company,69,Materials,520.67
+PF-IND-0151,GE,General Electric Company,184,Industrials,1127.67
+PF-HEA-0143,TMO,Thermo Fisher Scientific,486,Healthcare,1361.27
+PF-COM-0143,PARA,Paramount Global,207,Communication,38.5
+PF-FIN-0146,GS,Goldman Sachs Group,373,Finance,1477.47
+PF-FIN-0147,WFC,Wells Fargo & Company,376,Finance,42.65
+PF-IND-0152,FDX,FedEx Corporation,87,Industrials,193.51
+PF-MAT-0158,NUE,Nucor Corporation,334,Materials,1190.27
+PF-CON-0157,WMT,Walmart Inc.,449,Consumer Goods,964.08
+PF-COM-0144,NFLX,Netflix Inc.,274,Communication,938.47
+PF-REA-0167,PLD,Prologis Inc.,25,Real Estate,996.34
+PF-REA-0168,AVB,AvalonBay Communities,429,Real Estate,39.42
+PF-MAT-0159,ECL,Ecolab Inc.,60,Materials,631.0
+PF-CON-0158,WMT,Walmart Inc.,64,Consumer Goods,825.45
+PF-IND-0153,RTX,Raytheon Technologies,360,Industrials,238.16
+PF-MAT-0160,ECL,Ecolab Inc.,352,Materials,949.16
+PF-ENE-0160,SLB,SLB (Schlumberger),216,Energy,995.88
+PF-REA-0169,EQR,Equity Residential,267,Real Estate,412.27
+PF-REA-0170,CCI,Crown Castle Inc.,359,Real Estate,214.37
+PF-TEC-0205,IBM,IBM Corporation,262,Technology,1080.96
+PF-HEA-0144,JNJ,Johnson & Johnson,145,Healthcare,179.88
+PF-TEC-0206,IBM,IBM Corporation,255,Technology,305.98
+PF-FIN-0148,JPM,JPMorgan Chase & Co.,399,Finance,401.86
+PF-UTI-0162,DUK,Duke Energy Corporation,499,Utilities,310.49
+PF-MAT-0161,FCX,Freeport-McMoRan Inc.,210,Materials,450.07
+PF-TEC-0207,META,Meta Platforms Inc.,281,Technology,749.57
+PF-FIN-0149,BAC,Bank of America Corp.,353,Finance,1400.36
+PF-ENE-0161,VLO,Valero Energy Corporation,121,Energy,14.08
+PF-MAT-0162,LIN,Linde Plc,46,Materials,1361.25
+PF-UTI-0163,WEC,WEC Energy Group,343,Utilities,746.22
+PF-TEC-0208,AMD,Advanced Micro Devices,400,Technology,772.44
+PF-MAT-0163,VMC,Vulcan Materials Company,371,Materials,160.92
+PF-FIN-0150,BLK,BlackRock Inc.,330,Finance,354.43
+PF-ENE-0162,COP,ConocoPhillips,136,Energy,701.77
+PF-TEC-0209,CSCO,Cisco Systems Inc.,417,Technology,270.31
+PF-TEC-0210,META,Meta Platforms Inc.,437,Technology,442.95
+PF-COM-0145,WBD,Warner Bros. Discovery,347,Communication,475.93
+PF-MAT-0164,IP,International Paper Co.,60,Materials,151.55
+PF-COM-0146,CMCSA,Comcast Corporation,456,Communication,78.37
+PF-HEA-0145,UNH,UnitedHealth Group,340,Healthcare,974.33
+PF-ENE-0163,VLO,Valero Energy Corporation,184,Energy,1342.85
+PF-REA-0171,SPG,Simon Property Group,138,Real Estate,1318.93
+PF-TEC-0211,AMD,Advanced Micro Devices,191,Technology,1224.3
+PF-HEA-0146,BMY,Bristol-Myers Squibb,59,Healthcare,607.16
+PF-IND-0154,UPS,United Parcel Service,140,Industrials,1255.21
+PF-MAT-0165,ECL,Ecolab Inc.,436,Materials,722.59
+PF-CON-0159,HD,The Home Depot Inc.,333,Consumer Goods,1330.32
+PF-HEA-0147,TMO,Thermo Fisher Scientific,58,Healthcare,207.44
+PF-MAT-0166,VMC,Vulcan Materials Company,31,Materials,1472.54
+PF-HEA-0148,LLY,Eli Lilly and Company,54,Healthcare,629.88
+PF-REA-0172,AMT,American Tower Corp.,248,Real Estate,1205.37
+PF-MAT-0167,APD,Air Products & Chemicals,225,Materials,280.08
+PF-CON-0160,WMT,Walmart Inc.,399,Consumer Goods,544.31
+PF-TEC-0212,AMZN,Amazon.com Inc.,442,Technology,1029.85
+PF-MAT-0168,MLM,Martin Marietta Materials,499,Materials,1338.73
+PF-IND-0155,DE,Deere & Company,472,Industrials,737.3
+PF-CON-0161,SBUX,Starbucks Corporation,226,Consumer Goods,78.5
+PF-FIN-0151,SPGI,S&P Global Inc.,336,Finance,478.21
+PF-MAT-0169,FCX,Freeport-McMoRan Inc.,445,Materials,1020.11
+PF-COM-0147,NFLX,Netflix Inc.,381,Communication,869.21
+PF-UTI-0164,PCG,PG&E Corporation,115,Utilities,1467.06
+PF-MAT-0170,LIN,Linde Plc,448,Materials,514.07
+PF-UTI-0165,DUK,Duke Energy Corporation,353,Utilities,1053.86
+PF-TEC-0213,CSCO,Cisco Systems Inc.,222,Technology,995.95
+PF-FIN-0152,AXP,American Express Company,247,Finance,525.17
+PF-MAT-0171,APD,Air Products & Chemicals,329,Materials,583.47
+PF-UTI-0166,SRE,Sempra Energy,457,Utilities,1481.81
+PF-TEC-0214,TSLA,Tesla Inc.,6,Technology,968.66
+PF-HEA-0149,LLY,Eli Lilly and Company,259,Healthcare,1274.78
+PF-IND-0156,MMM,3M Company,446,Industrials,256.45
+PF-COM-0148,VZ,Verizon Communications,252,Communication,487.74
+PF-ENE-0164,VLO,Valero Energy Corporation,497,Energy,424.45
+PF-IND-0157,FDX,FedEx Corporation,115,Industrials,830.24
+PF-CON-0162,WMT,Walmart Inc.,207,Consumer Goods,1227.48
+PF-TEC-0215,INTC,Intel Corporation,236,Technology,671.84
+PF-UTI-0167,WEC,WEC Energy Group,230,Utilities,141.15
+PF-IND-0158,MMM,3M Company,229,Industrials,480.93
+PF-IND-0159,MMM,3M Company,382,Industrials,983.53
+PF-TEC-0216,IBM,IBM Corporation,207,Technology,624.38
+PF-UTI-0168,SRE,Sempra Energy,282,Utilities,10.25
+PF-TEC-0217,AMD,Advanced Micro Devices,406,Technology,910.26
+PF-REA-0173,SPG,Simon Property Group,327,Real Estate,463.85
+PF-UTI-0169,NEE,NextEra Energy Inc.,288,Utilities,318.21
+PF-MAT-0172,LIN,Linde Plc,234,Materials,1426.03
+PF-CON-0163,KO,The Coca-Cola Company,423,Consumer Goods,90.87
+PF-FIN-0153,GS,Goldman Sachs Group,433,Finance,687.15
+PF-UTI-0170,SRE,Sempra Energy,393,Utilities,933.44
+PF-IND-0160,RTX,Raytheon Technologies,367,Industrials,989.18
+PF-MAT-0173,NUE,Nucor Corporation,232,Materials,179.89
+PF-COM-0149,CMCSA,Comcast Corporation,338,Communication,340.4
+PF-ENE-0165,OXY,Occidental Petroleum,182,Energy,1246.53
+PF-COM-0150,WBD,Warner Bros. Discovery,150,Communication,826.06
+PF-CON-0164,PEP,PepsiCo Inc.,360,Consumer Goods,168.42
+PF-HEA-0150,TMO,Thermo Fisher Scientific,253,Healthcare,219.27
+PF-MAT-0174,NUE,Nucor Corporation,381,Materials,1085.12
+PF-TEC-0218,IBM,IBM Corporation,131,Technology,920.17
+PF-HEA-0151,AMGN,Amgen Inc.,62,Healthcare,1396.02
+PF-CON-0165,MCD,McDonald's Corporation,111,Consumer Goods,691.0
+PF-COM-0151,CHTR,Charter Communications,98,Communication,1078.01
+PF-TEC-0219,IBM,IBM Corporation,388,Technology,627.56
+PF-REA-0174,DLR,Digital Realty Trust,429,Real Estate,1011.49
+PF-HEA-0152,JNJ,Johnson & Johnson,396,Healthcare,1338.71
+PF-IND-0161,UPS,United Parcel Service,338,Industrials,888.08
+PF-IND-0162,FDX,FedEx Corporation,69,Industrials,1446.14
+PF-TEC-0220,AAPL,Apple Inc.,272,Technology,1106.96
+PF-UTI-0171,EXC,Exelon Corporation,479,Utilities,654.89
+PF-UTI-0172,ES,Eversource Energy,248,Utilities,1387.31
+PF-COM-0152,DIS,The Walt Disney Company,472,Communication,1366.17
+PF-MAT-0175,ECL,Ecolab Inc.,297,Materials,268.74
+PF-COM-0153,FOX,Fox Corporation,66,Communication,164.3
+PF-REA-0175,EQR,Equity Residential,308,Real Estate,913.18
+PF-ENE-0166,MPC,Marathon Petroleum Corp.,259,Energy,1323.27
+PF-CON-0166,HD,The Home Depot Inc.,312,Consumer Goods,1374.71
+PF-COM-0154,CMCSA,Comcast Corporation,128,Communication,417.66
+PF-ENE-0167,OXY,Occidental Petroleum,497,Energy,448.32
+PF-COM-0155,PARA,Paramount Global,69,Communication,215.89
+PF-REA-0176,CCI,Crown Castle Inc.,359,Real Estate,1330.79
+PF-UTI-0173,NEE,NextEra Energy Inc.,154,Utilities,1266.18
+PF-UTI-0174,EXC,Exelon Corporation,441,Utilities,477.73
+PF-MAT-0176,IP,International Paper Co.,479,Materials,834.84
+PF-FIN-0154,WFC,Wells Fargo & Company,103,Finance,322.47
+PF-MAT-0177,NUE,Nucor Corporation,149,Materials,1033.05
+PF-MAT-0178,APD,Air Products & Chemicals,68,Materials,1472.19
+PF-REA-0177,AVB,AvalonBay Communities,500,Real Estate,1437.91
+PF-IND-0163,FDX,FedEx Corporation,278,Industrials,1044.52
+PF-ENE-0168,MPC,Marathon Petroleum Corp.,364,Energy,181.95
+PF-CON-0167,PG,Procter & Gamble Co.,288,Consumer Goods,725.75
+PF-UTI-0175,WEC,WEC Energy Group,483,Utilities,1004.06
+PF-CON-0168,HD,The Home Depot Inc.,346,Consumer Goods,1124.32
+PF-UTI-0176,D,Dominion Energy Inc.,147,Utilities,1317.44
+PF-CON-0169,TGT,Target Corporation,414,Consumer Goods,29.03
+PF-TEC-0221,IBM,IBM Corporation,13,Technology,577.5
+PF-TEC-0222,TSLA,Tesla Inc.,344,Technology,94.34
+PF-FIN-0155,CB,Chubb Limited,385,Finance,1180.44
+PF-ENE-0169,CVX,Chevron Corporation,350,Energy,383.34
+PF-TEC-0223,ORCL,Oracle Corporation,354,Technology,1178.69
+PF-FIN-0156,BAC,Bank of America Corp.,386,Finance,816.35
+PF-CON-0170,PG,Procter & Gamble Co.,417,Consumer Goods,684.37
+PF-REA-0178,EQIX,Equinix Inc.,445,Real Estate,1016.53
+PF-UTI-0177,SRE,Sempra Energy,443,Utilities,344.22
+PF-REA-0179,WELL,Welltower Inc.,288,Real Estate,589.44
+PF-UTI-0178,NEE,NextEra Energy Inc.,402,Utilities,1197.28
+PF-MAT-0179,NEM,Newmont Corporation,148,Materials,1042.47
+PF-TEC-0224,TSLA,Tesla Inc.,475,Technology,578.56
+PF-CON-0171,HD,The Home Depot Inc.,490,Consumer Goods,1184.29
+PF-MAT-0180,SHW,Sherwin-Williams Company,161,Materials,1449.09
+PF-TEC-0225,TSLA,Tesla Inc.,7,Technology,1118.07
+PF-FIN-0157,JPM,JPMorgan Chase & Co.,318,Finance,1304.59
+PF-IND-0164,BA,Boeing Company,425,Industrials,346.07
+PF-REA-0180,DLR,Digital Realty Trust,361,Real Estate,1067.22
+PF-CON-0172,PEP,PepsiCo Inc.,387,Consumer Goods,886.69
+PF-MAT-0181,IP,International Paper Co.,309,Materials,302.74
+PF-MAT-0182,VMC,Vulcan Materials Company,494,Materials,298.31
+PF-IND-0165,HON,Honeywell International,91,Industrials,1475.35
+PF-TEC-0226,ADBE,Adobe Inc.,96,Technology,1444.09
+PF-MAT-0183,IP,International Paper Co.,264,Materials,187.84
+PF-TEC-0227,META,Meta Platforms Inc.,220,Technology,425.88
+PF-FIN-0158,SPGI,S&P Global Inc.,67,Finance,249.78
+PF-FIN-0159,BLK,BlackRock Inc.,3,Finance,502.54
+PF-MAT-0184,FCX,Freeport-McMoRan Inc.,480,Materials,240.66
+PF-HEA-0153,MRK,Merck & Co. Inc.,476,Healthcare,490.72
+PF-TEC-0228,TSLA,Tesla Inc.,397,Technology,1399.25
+PF-REA-0181,EQIX,Equinix Inc.,432,Real Estate,996.22
+PF-IND-0166,GE,General Electric Company,405,Industrials,863.29
+PF-CON-0173,PG,Procter & Gamble Co.,38,Consumer Goods,1178.21
+PF-ENE-0170,PXD,Pioneer Natural Resources,270,Energy,337.74
+PF-HEA-0154,BMY,Bristol-Myers Squibb,267,Healthcare,111.58
+PF-IND-0167,FDX,FedEx Corporation,82,Industrials,629.74
+PF-UTI-0179,D,Dominion Energy Inc.,207,Utilities,147.0
+PF-FIN-0160,GS,Goldman Sachs Group,453,Finance,327.9
+PF-ENE-0171,VLO,Valero Energy Corporation,170,Energy,547.59
+PF-FIN-0161,WFC,Wells Fargo & Company,487,Finance,1131.46
+PF-UTI-0180,SO,Southern Company,244,Utilities,1494.98
+PF-COM-0156,VZ,Verizon Communications,333,Communication,23.12
+PF-MAT-0185,LIN,Linde Plc,178,Materials,674.04
+PF-REA-0182,WELL,Welltower Inc.,315,Real Estate,1378.72
+PF-FIN-0162,AXP,American Express Company,491,Finance,69.42
+PF-ENE-0172,MPC,Marathon Petroleum Corp.,196,Energy,1374.74
+PF-TEC-0229,QCOM,Qualcomm Inc.,198,Technology,392.32
+PF-MAT-0186,VMC,Vulcan Materials Company,145,Materials,46.81
+PF-UTI-0181,DUK,Duke Energy Corporation,421,Utilities,1158.04
+PF-UTI-0182,NEE,NextEra Energy Inc.,412,Utilities,768.02
+PF-IND-0168,GE,General Electric Company,23,Industrials,451.69
+PF-REA-0183,AVB,AvalonBay Communities,99,Real Estate,487.27
+PF-TEC-0230,INTC,Intel Corporation,486,Technology,152.98
+PF-COM-0157,NFLX,Netflix Inc.,276,Communication,804.48
+PF-REA-0184,O,Realty Income Corporation,34,Real Estate,324.06
+PF-REA-0185,O,Realty Income Corporation,397,Real Estate,327.63
+PF-MAT-0187,SHW,Sherwin-Williams Company,218,Materials,1255.14
+PF-FIN-0163,BAC,Bank of America Corp.,276,Finance,1244.84
+PF-MAT-0188,IP,International Paper Co.,397,Materials,658.5
+PF-COM-0158,FOX,Fox Corporation,482,Communication,117.46
+PF-MAT-0189,SHW,Sherwin-Williams Company,79,Materials,45.39
+PF-MAT-0190,NUE,Nucor Corporation,170,Materials,66.45
+PF-TEC-0231,ADBE,Adobe Inc.,28,Technology,275.21
+PF-FIN-0164,BLK,BlackRock Inc.,286,Finance,114.96
+PF-FIN-0165,MS,Morgan Stanley,467,Finance,395.39
+PF-CON-0174,COST,Costco Wholesale Corp.,231,Consumer Goods,949.02
+PF-IND-0169,CAT,Caterpillar Inc.,162,Industrials,35.17
+PF-MAT-0191,APD,Air Products & Chemicals,61,Materials,806.9
+PF-REA-0186,WELL,Welltower Inc.,369,Real Estate,931.34
+PF-COM-0159,VZ,Verizon Communications,382,Communication,882.56
+PF-MAT-0192,NEM,Newmont Corporation,435,Materials,118.16
+PF-IND-0170,FDX,FedEx Corporation,55,Industrials,441.86
+PF-MAT-0193,SHW,Sherwin-Williams Company,155,Materials,913.78
+PF-ENE-0173,CVX,Chevron Corporation,392,Energy,1390.77
+PF-CON-0175,WMT,Walmart Inc.,203,Consumer Goods,1234.96
+PF-TEC-0232,AMZN,Amazon.com Inc.,243,Technology,242.92
+PF-FIN-0166,GS,Goldman Sachs Group,70,Finance,1122.66
+PF-COM-0160,TMUS,T-Mobile US Inc.,409,Communication,1275.71
+PF-ENE-0174,COP,ConocoPhillips,492,Energy,954.73
+PF-ENE-0175,SLB,SLB (Schlumberger),347,Energy,1331.6
+PF-COM-0161,TMUS,T-Mobile US Inc.,444,Communication,1096.69
+PF-CON-0176,PEP,PepsiCo Inc.,491,Consumer Goods,1424.7
+PF-UTI-0183,EXC,Exelon Corporation,448,Utilities,837.05
+PF-HEA-0155,JNJ,Johnson & Johnson,22,Healthcare,17.49
+PF-REA-0187,PLD,Prologis Inc.,202,Real Estate,810.36
+PF-TEC-0233,INTC,Intel Corporation,157,Technology,322.98
+PF-MAT-0194,IP,International Paper Co.,463,Materials,1091.65
+PF-FIN-0167,WFC,Wells Fargo & Company,212,Finance,1359.39
+PF-UTI-0184,NEE,NextEra Energy Inc.,73,Utilities,249.82
+PF-FIN-0168,GS,Goldman Sachs Group,316,Finance,1253.78
+PF-HEA-0156,AMGN,Amgen Inc.,59,Healthcare,280.22
+PF-COM-0162,WBD,Warner Bros. Discovery,291,Communication,1279.85
+PF-COM-0163,VZ,Verizon Communications,478,Communication,1485.21
+PF-UTI-0185,EXC,Exelon Corporation,237,Utilities,970.57
+PF-TEC-0234,ADBE,Adobe Inc.,149,Technology,1010.81
+PF-FIN-0169,BLK,BlackRock Inc.,51,Finance,304.15
+PF-UTI-0186,ES,Eversource Energy,250,Utilities,1427.79
+PF-CON-0177,PG,Procter & Gamble Co.,66,Consumer Goods,1010.23
+PF-FIN-0170,C,Citigroup Inc.,52,Finance,434.85
+PF-TEC-0235,CRM,Salesforce Inc.,461,Technology,298.31
+PF-IND-0171,GE,General Electric Company,231,Industrials,499.24
+PF-REA-0188,EQR,Equity Residential,157,Real Estate,1043.25
+PF-HEA-0157,MRK,Merck & Co. Inc.,290,Healthcare,854.62
+PF-COM-0164,PARA,Paramount Global,162,Communication,1438.4
+PF-HEA-0158,TMO,Thermo Fisher Scientific,3,Healthcare,476.69
+PF-COM-0165,CHTR,Charter Communications,114,Communication,1071.18
+PF-REA-0189,WELL,Welltower Inc.,224,Real Estate,422.25
+PF-CON-0178,KO,The Coca-Cola Company,69,Consumer Goods,1022.57
+PF-ENE-0176,VLO,Valero Energy Corporation,450,Energy,725.13
+PF-IND-0172,HON,Honeywell International,184,Industrials,1164.4
+PF-IND-0173,GE,General Electric Company,283,Industrials,172.16
+PF-REA-0190,WELL,Welltower Inc.,311,Real Estate,132.14
+PF-ENE-0177,XOM,Exxon Mobil Corporation,440,Energy,1241.4
+PF-UTI-0187,D,Dominion Energy Inc.,101,Utilities,402.22
+PF-REA-0191,O,Realty Income Corporation,40,Real Estate,1093.86
+PF-TEC-0236,GOOGL,Alphabet Inc.,435,Technology,765.7
+PF-TEC-0237,AMZN,Amazon.com Inc.,417,Technology,877.02
+PF-CON-0179,NKE,NIKE Inc.,394,Consumer Goods,889.15
+PF-TEC-0238,NVDA,NVIDIA Corporation,283,Technology,398.32
+PF-UTI-0188,AEP,American Electric Power,242,Utilities,984.32
+PF-HEA-0159,MRK,Merck & Co. Inc.,188,Healthcare,594.82
+PF-COM-0166,NFLX,Netflix Inc.,302,Communication,1102.51
+PF-ENE-0178,COP,ConocoPhillips,69,Energy,702.4
+PF-UTI-0189,NEE,NextEra Energy Inc.,47,Utilities,601.21
+PF-IND-0174,FDX,FedEx Corporation,6,Industrials,997.39
+PF-COM-0167,PARA,Paramount Global,315,Communication,1029.4
+PF-COM-0168,VZ,Verizon Communications,264,Communication,219.15
+PF-HEA-0160,LLY,Eli Lilly and Company,92,Healthcare,853.87
+PF-UTI-0190,PCG,PG&E Corporation,338,Utilities,1309.57
+PF-HEA-0161,ABT,Abbott Laboratories,377,Healthcare,1100.69
+PF-CON-0180,PG,Procter & Gamble Co.,21,Consumer Goods,336.04
+PF-IND-0175,GE,General Electric Company,119,Industrials,103.66
+PF-CON-0181,PEP,PepsiCo Inc.,120,Consumer Goods,73.78
+PF-FIN-0171,BAC,Bank of America Corp.,266,Finance,1362.51
+PF-CON-0182,KO,The Coca-Cola Company,199,Consumer Goods,709.81
+PF-IND-0176,UPS,United Parcel Service,452,Industrials,79.19
+PF-REA-0192,AVB,AvalonBay Communities,166,Real Estate,163.81
+PF-UTI-0191,DUK,Duke Energy Corporation,325,Utilities,1246.17
+PF-MAT-0195,IP,International Paper Co.,135,Materials,872.16
+PF-UTI-0192,PCG,PG&E Corporation,90,Utilities,571.22
+PF-CON-0183,WMT,Walmart Inc.,188,Consumer Goods,885.64
+PF-TEC-0239,ADBE,Adobe Inc.,265,Technology,384.86
+PF-FIN-0172,GS,Goldman Sachs Group,265,Finance,614.7
+PF-COM-0169,FOX,Fox Corporation,445,Communication,524.1
+PF-COM-0170,TMUS,T-Mobile US Inc.,247,Communication,1331.89
+PF-TEC-0240,AAPL,Apple Inc.,257,Technology,1324.23
+PF-IND-0177,BA,Boeing Company,85,Industrials,352.69
+PF-UTI-0193,NEE,NextEra Energy Inc.,330,Utilities,428.41
+PF-HEA-0162,MRK,Merck & Co. Inc.,96,Healthcare,244.46
+PF-REA-0193,CCI,Crown Castle Inc.,368,Real Estate,1227.26
+PF-REA-0194,EQR,Equity Residential,118,Real Estate,627.77
+PF-ENE-0179,VLO,Valero Energy Corporation,369,Energy,178.87
+PF-MAT-0196,APD,Air Products & Chemicals,246,Materials,723.74
+PF-REA-0195,AMT,American Tower Corp.,83,Real Estate,974.42
+PF-CON-0184,SBUX,Starbucks Corporation,12,Consumer Goods,373.07
+PF-HEA-0163,PFE,Pfizer Inc.,294,Healthcare,892.6
+PF-HEA-0164,UNH,UnitedHealth Group,323,Healthcare,773.84
+PF-UTI-0194,WEC,WEC Energy Group,76,Utilities,93.31
+PF-FIN-0173,SPGI,S&P Global Inc.,473,Finance,278.26
+PF-CON-0185,NKE,NIKE Inc.,307,Consumer Goods,1454.17
+PF-REA-0196,DLR,Digital Realty Trust,10,Real Estate,1318.98
+PF-MAT-0197,MLM,Martin Marietta Materials,339,Materials,1233.74
+PF-TEC-0241,INTC,Intel Corporation,111,Technology,679.31
+PF-IND-0178,RTX,Raytheon Technologies,445,Industrials,727.69
+PF-FIN-0174,GS,Goldman Sachs Group,426,Finance,622.04
+PF-HEA-0165,ABT,Abbott Laboratories,407,Healthcare,878.14
+PF-COM-0171,NFLX,Netflix Inc.,94,Communication,938.59
+PF-UTI-0195,NEE,NextEra Energy Inc.,136,Utilities,259.91
+PF-MAT-0198,SHW,Sherwin-Williams Company,176,Materials,1384.3
+PF-REA-0197,PLD,Prologis Inc.,303,Real Estate,112.58
+PF-CON-0186,WMT,Walmart Inc.,198,Consumer Goods,207.0
+PF-TEC-0242,GOOGL,Alphabet Inc.,104,Technology,788.84
+PF-IND-0179,FDX,FedEx Corporation,351,Industrials,635.49
+PF-HEA-0166,MRK,Merck & Co. Inc.,311,Healthcare,153.48
+PF-IND-0180,RTX,Raytheon Technologies,462,Industrials,925.97
+PF-TEC-0243,NVDA,NVIDIA Corporation,450,Technology,1177.96
+PF-IND-0181,FDX,FedEx Corporation,386,Industrials,185.1
+PF-IND-0182,DE,Deere & Company,338,Industrials,204.19
+PF-REA-0198,CCI,Crown Castle Inc.,277,Real Estate,1243.01
+PF-COM-0172,DIS,The Walt Disney Company,348,Communication,977.36
+PF-UTI-0196,DUK,Duke Energy Corporation,216,Utilities,561.86
+PF-TEC-0244,META,Meta Platforms Inc.,358,Technology,799.43
+PF-FIN-0175,MS,Morgan Stanley,481,Finance,1205.43
+PF-COM-0173,TMUS,T-Mobile US Inc.,394,Communication,578.04
+PF-REA-0199,AMT,American Tower Corp.,412,Real Estate,1114.68
+PF-COM-0174,CMCSA,Comcast Corporation,429,Communication,1048.09
+PF-TEC-0245,CSCO,Cisco Systems Inc.,218,Technology,209.49
+PF-IND-0183,DE,Deere & Company,393,Industrials,356.44
+PF-TEC-0246,INTC,Intel Corporation,146,Technology,901.46
+PF-UTI-0197,AEP,American Electric Power,210,Utilities,394.13
+PF-TEC-0247,AAPL,Apple Inc.,364,Technology,1118.03
+PF-TEC-0248,AAPL,Apple Inc.,296,Technology,788.59
+PF-UTI-0198,DUK,Duke Energy Corporation,4,Utilities,568.79
+PF-FIN-0176,BAC,Bank of America Corp.,353,Finance,1208.39
+PF-CON-0187,SBUX,Starbucks Corporation,186,Consumer Goods,168.81
+PF-CON-0188,TGT,Target Corporation,334,Consumer Goods,882.2
+PF-FIN-0177,SPGI,S&P Global Inc.,438,Finance,808.8
+PF-UTI-0199,PCG,PG&E Corporation,188,Utilities,921.7
+PF-MAT-0199,SHW,Sherwin-Williams Company,204,Materials,1134.91
+PF-CON-0189,SBUX,Starbucks Corporation,283,Consumer Goods,1177.84
+PF-IND-0184,DE,Deere & Company,92,Industrials,561.62
+PF-UTI-0200,SRE,Sempra Energy,248,Utilities,388.13
+PF-ENE-0180,EOG,EOG Resources Inc.,296,Energy,523.09
+PF-MAT-0200,FCX,Freeport-McMoRan Inc.,204,Materials,1106.32
+PF-REA-0200,EQR,Equity Residential,61,Real Estate,1124.24
+PF-IND-0185,HON,Honeywell International,401,Industrials,1051.97
+PF-HEA-0167,LLY,Eli Lilly and Company,52,Healthcare,329.54
+PF-CON-0190,NKE,NIKE Inc.,403,Consumer Goods,514.27
+PF-UTI-0201,EXC,Exelon Corporation,315,Utilities,1048.62
+PF-MAT-0201,FCX,Freeport-McMoRan Inc.,27,Materials,249.5
+PF-REA-0201,DLR,Digital Realty Trust,3,Real Estate,1208.51
+PF-HEA-0168,ABT,Abbott Laboratories,242,Healthcare,1389.53
+PF-IND-0186,CAT,Caterpillar Inc.,46,Industrials,105.48
+PF-FIN-0178,GS,Goldman Sachs Group,190,Finance,129.26
+PF-TEC-0249,NVDA,NVIDIA Corporation,371,Technology,582.65
+PF-CON-0191,NKE,NIKE Inc.,315,Consumer Goods,987.7
+PF-ENE-0181,CVX,Chevron Corporation,365,Energy,1445.66
+PF-TEC-0250,ORCL,Oracle Corporation,485,Technology,1162.68
+PF-HEA-0169,MDT,Medtronic Plc,328,Healthcare,746.61
+PF-TEC-0251,MSFT,Microsoft Corporation,104,Technology,1277.35
+PF-COM-0175,WBD,Warner Bros. Discovery,266,Communication,436.15
+PF-TEC-0252,NVDA,NVIDIA Corporation,402,Technology,903.28
+PF-UTI-0202,DUK,Duke Energy Corporation,358,Utilities,355.19
+PF-HEA-0170,TMO,Thermo Fisher Scientific,346,Healthcare,63.73
+PF-FIN-0179,C,Citigroup Inc.,336,Finance,10.43
+PF-HEA-0171,LLY,Eli Lilly and Company,45,Healthcare,1495.26
+PF-COM-0176,DIS,The Walt Disney Company,205,Communication,536.16
+PF-CON-0192,MCD,McDonald's Corporation,208,Consumer Goods,883.26
+PF-UTI-0203,DUK,Duke Energy Corporation,8,Utilities,1108.02
+PF-TEC-0253,CRM,Salesforce Inc.,471,Technology,144.35
+PF-ENE-0182,CVX,Chevron Corporation,372,Energy,1246.35
+PF-UTI-0204,ES,Eversource Energy,179,Utilities,527.74
+PF-COM-0177,FOX,Fox Corporation,142,Communication,347.18
+PF-HEA-0172,AMGN,Amgen Inc.,233,Healthcare,1395.27
+PF-UTI-0205,WEC,WEC Energy Group,3,Utilities,399.05
+PF-CON-0193,SBUX,Starbucks Corporation,260,Consumer Goods,168.63
+PF-TEC-0254,ADBE,Adobe Inc.,258,Technology,448.44
+PF-TEC-0255,QCOM,Qualcomm Inc.,412,Technology,774.8
+PF-FIN-0180,BLK,BlackRock Inc.,449,Finance,811.48
+PF-COM-0178,TMUS,T-Mobile US Inc.,295,Communication,382.71
+PF-IND-0187,BA,Boeing Company,495,Industrials,571.85
+PF-IND-0188,DE,Deere & Company,395,Industrials,372.48
+PF-ENE-0183,OXY,Occidental Petroleum,493,Energy,1165.64
+PF-MAT-0202,SHW,Sherwin-Williams Company,236,Materials,1345.82
+PF-TEC-0256,AMZN,Amazon.com Inc.,247,Technology,183.24
+PF-TEC-0257,CRM,Salesforce Inc.,196,Technology,954.16
+PF-FIN-0181,GS,Goldman Sachs Group,347,Finance,1054.75
+PF-COM-0179,WBD,Warner Bros. Discovery,162,Communication,624.51
+PF-CON-0194,PG,Procter & Gamble Co.,265,Consumer Goods,808.12
+PF-MAT-0203,NEM,Newmont Corporation,427,Materials,402.39
+PF-ENE-0184,CVX,Chevron Corporation,48,Energy,604.41
+PF-COM-0180,T,AT&T Inc.,421,Communication,519.57
+PF-UTI-0206,EXC,Exelon Corporation,477,Utilities,275.94
+PF-ENE-0185,PXD,Pioneer Natural Resources,182,Energy,335.66
+PF-UTI-0207,WEC,WEC Energy Group,138,Utilities,282.35
+PF-COM-0181,T,AT&T Inc.,350,Communication,1396.08
+PF-HEA-0173,AMGN,Amgen Inc.,256,Healthcare,1108.3
+PF-FIN-0182,C,Citigroup Inc.,377,Finance,370.66
+PF-FIN-0183,SPGI,S&P Global Inc.,106,Finance,351.52
+PF-FIN-0184,AXP,American Express Company,429,Finance,931.71
+PF-HEA-0174,MRK,Merck & Co. Inc.,399,Healthcare,168.97
+PF-TEC-0258,INTC,Intel Corporation,347,Technology,1434.11
+PF-IND-0189,MMM,3M Company,315,Industrials,19.87
+PF-UTI-0208,AEP,American Electric Power,491,Utilities,72.97
+PF-IND-0190,DE,Deere & Company,191,Industrials,934.79
+PF-IND-0191,MMM,3M Company,460,Industrials,1478.19
+PF-UTI-0209,WEC,WEC Energy Group,445,Utilities,419.35
+PF-HEA-0175,BMY,Bristol-Myers Squibb,392,Healthcare,1374.85
+PF-ENE-0186,XOM,Exxon Mobil Corporation,204,Energy,340.92
+PF-UTI-0210,WEC,WEC Energy Group,66,Utilities,90.68
+PF-COM-0182,WBD,Warner Bros. Discovery,217,Communication,722.7
+PF-UTI-0211,AEP,American Electric Power,17,Utilities,758.69
+PF-CON-0195,MCD,McDonald's Corporation,441,Consumer Goods,1032.64
+PF-HEA-0176,MDT,Medtronic Plc,235,Healthcare,1465.0
+PF-MAT-0204,NEM,Newmont Corporation,266,Materials,695.51
+PF-MAT-0205,ECL,Ecolab Inc.,5,Materials,27.61
+PF-FIN-0185,BAC,Bank of America Corp.,195,Finance,875.7
+PF-ENE-0187,MPC,Marathon Petroleum Corp.,186,Energy,923.04
+PF-FIN-0186,SPGI,S&P Global Inc.,96,Finance,827.36
+PF-FIN-0187,C,Citigroup Inc.,138,Finance,712.3
+PF-REA-0202,EQIX,Equinix Inc.,176,Real Estate,555.23
+PF-IND-0192,MMM,3M Company,218,Industrials,323.69
+PF-MAT-0206,NEM,Newmont Corporation,386,Materials,564.74
+PF-MAT-0008,VMC,Vulcan Materials Company,449,Materials,1082.32
+PF-REA-0005,WELL,Welltower Inc.,235,Real Estate,222.88
+PF-UTI-0009,SO,Southern Company,471,Utilities,10.85
+PF-CON-0003,KO,The Coca-Cola Company,84,Consumer Goods,561.57
